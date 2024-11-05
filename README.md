@@ -14,23 +14,6 @@ This program integrates data from Spotify and Ticketmaster to recommend concerts
    - `ticketmaster_events_data.json`: Contains event details fetched from Ticketmaster, including event names, venues, dates, genres, and artists performing.
    - `ranked_events.json`: Contains the top-ranked events based on similarity to the user's preferences, including the similarity score for each event.
 
-## Dependencies
-
-To run this program you will need these Python packages:
-- `requests`: For making HTTP requests to APIs.
-- `spotipy`: For accessing the Spotify Web API.
-- `numpy`: For numerical operations and handling arrays.
-- `collections`: For counting and organizing data.
-- `fuzzywuzzy`: For string similarity matching.
-- `geopy`: For location processing.
-
-You can install these dependencies using pip:
-
-```bash
-pip install requests spotipy numpy fuzzywuzzy geopy
-
-```
-
 3. **How To Run**
    - With your own Spotify Login/Data
       - Replace the spotify developer credentials of Client Secret and Client ID in `spotify_data.py`
@@ -48,3 +31,22 @@ pip install requests spotipy numpy fuzzywuzzy geopy
 4. **Notes**
    - While this algorithm is complete and works correctly, I may do some more refining of it based on user testing with different accounts. I am currently using my own ranking algorithm based on genre weights, artist matches, and distance calculation. However, I may implement a cosine similarity function in the future. 
    - I have had limited ability to test this with multiple accounts, since I only have one spotify account. I did test it on one other account from a friend, but that is the extent so far that I have been able to test. I plan to conduct more testing once I have a UI created. At that point I may do some tweaking to the algorithm to refine it. 
+
+   
+## Dependencies
+
+To run this program you will need these Python packages:
+- `requests`: For making HTTP requests to APIs.
+- `spotipy`: For accessing the Spotify Web API.
+- `numpy`: For numerical operations and handling arrays.
+- `collections`: For counting and organizing data.
+- `fuzzywuzzy`: For string similarity matching.
+- `geopy`: For location processing.
+
+You can install these dependencies using pip:
+
+```bash
+pip install requests spotipy numpy fuzzywuzzy geopy
+
+```
+
