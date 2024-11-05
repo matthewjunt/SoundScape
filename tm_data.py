@@ -7,7 +7,7 @@ from collections import Counter
 from fuzzywuzzy import fuzz  
 
 # Ticketmaster API key
-API_KEY = 'XAWCGASB4r41URtFJpkPNGKAk3kUXQxU'
+API_KEY = ''
 
 def get_event_data(location, radius=100, size=200):
 
