@@ -1,48 +1,20 @@
 [
     {
-        "Event Name": "The 5 Browns",
+        "Event Name": "David Kushner",
         "Artists": [
-            "The 5 Browns"
+            "David Kushner",
+            "Henrik",
+            "Henrik"
         ],
         "Genres": [
-            "Other",
-            "Other"
+            "Rock",
+            "Pop"
         ],
-        "Date": "2025-02-06",
-        "Location": "College Station, Texas",
-        "Address": "Suite 205 Rudder Tower",
-        "Distance": 0.87,
-        "Similarity Score": 0.3282359722222222
-    },
-    {
-        "Event Name": "The Kingdom Choir",
-        "Artists": [
-            "The Kingdom Choir"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-21",
-        "Location": "College Station, Texas",
-        "Address": "401 Joe Routt Boulevard",
-        "Distance": 8.7,
-        "Similarity Score": 0.24914506313131315
-    },
-    {
-        "Event Name": "William Clark Green",
-        "Artists": [
-            "William Clark Green"
-        ],
-        "Genres": [
-            "Country",
-            "Country Folk"
-        ],
-        "Date": "2024-11-22",
-        "Location": "College Station, Texas",
-        "Address": "313 College Ave.",
-        "Distance": 8.7,
-        "Similarity Score": 0.2117275631313132
+        "Date": "2024-11-09",
+        "Location": "Houston, Texas",
+        "Address": "520 Texas Ave.",
+        "Distance": 0.27,
+        "Similarity Score": 0.9982828282828283
     },
     {
         "Event Name": "Livingston - A Hometown Odyssey Tour - Part 2",
@@ -58,224 +30,211 @@
         "Date": "2024-11-24",
         "Location": "Houston, Texas",
         "Address": "2915 N Main St",
-        "Distance": 82.04,
-        "Similarity Score": 0.1723232323232322
+        "Distance": 1.89,
+        "Similarity Score": 0.981919191919192
     },
     {
-        "Event Name": "David Kushner",
+        "Event Name": "OMD",
         "Artists": [
-            "David Kushner",
-            "Henrik",
-            "Henrik"
-        ],
-        "Genres": [
-            "Rock",
-            "Pop"
-        ],
-        "Date": "2024-11-09",
-        "Location": "Houston, Texas",
-        "Address": "520 Texas Ave.",
-        "Distance": 83.12,
-        "Similarity Score": 0.16141414141414123
-    },
-    {
-        "Event Name": "David Kushner - The Dichotomy Tour",
-        "Artists": [
-            "David Kushner",
-            "Henrik",
-            "Henrik"
-        ],
-        "Genres": [
-            "Rock",
-            "Pop"
-        ],
-        "Date": "2024-11-12",
-        "Location": "Austin, Texas",
-        "Address": "801 Red River",
-        "Distance": 86.29,
-        "Similarity Score": 0.12939393939393928
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-09",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-10",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-16",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-17",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-23",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-24",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-29",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-11-30",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Texas Renaissance Festival",
-        "Artists": [
-            "Texas Renaissance Festival"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2024-12-01",
-        "Location": "Plantersville, Texas",
-        "Address": "21778 Farm to Market 1774",
-        "Distance": 36.48,
-        "Similarity Score": -0.0314609974747474
-    },
-    {
-        "Event Name": "Donny Edwards",
-        "Artists": [
-            "Donny Edwards"
-        ],
-        "Genres": [
-            "Other",
-            "Other"
-        ],
-        "Date": "2025-03-15",
-        "Location": "Conroe, Texas",
-        "Address": "234 N. Main St.",
-        "Distance": 58.32,
-        "Similarity Score": -0.25206705808080804
-    },
-    {
-        "Event Name": "R\u00dcF\u00dcS DU SOL Inhale / Exhale World Tour 2025",
-        "Artists": [
-            "R\u00dcF\u00dcS DU SOL",
-            "Sofia Kourtesis",
-            "Sofia Kourtesis"
-        ],
-        "Genres": [
-            "Dance/Electronic",
-            "Witchstep"
-        ],
-        "Date": "2025-04-24",
-        "Location": "The Woodlands, Texas",
-        "Address": "2005 Lake Robbins Dr",
-        "Distance": 61.27,
-        "Similarity Score": -0.31547441287878786
-    },
-    {
-        "Event Name": "Picus - Evolution Tour 2024",
-        "Artists": [
-            "Picus"
+            "OMD"
         ],
         "Genres": [
             "Pop",
             "Pop"
         ],
-        "Date": "2024-12-07",
+        "Date": "2025-06-02",
         "Location": "Houston, Texas",
-        "Address": "7326 Southwest Fwy,",
-        "Distance": 80.33,
-        "Similarity Score": -0.36025904040404044
+        "Address": "520 Texas Ave.",
+        "Distance": 0.27,
+        "Similarity Score": 0.44767407828282835
+    },
+    {
+        "Event Name": "Will Wood - Slouching Towards Bethlehem! Tour",
+        "Artists": [
+            "Will Wood"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2024-11-22",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.41,
+        "Similarity Score": 0.4462599368686869
+    },
+    {
+        "Event Name": "Leanna Firestone",
+        "Artists": [
+            "Leanna Firestone",
+            "Sundial",
+            "Sundial"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2024-11-16",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.41,
+        "Similarity Score": 0.4462599368686869
+    },
+    {
+        "Event Name": "Natalie Jane",
+        "Artists": [
+            "Natalie Jane"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-02-12",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.41,
+        "Similarity Score": 0.4462599368686869
+    },
+    {
+        "Event Name": "Gusi - Solo Tuyo 2024 USA Tour",
+        "Artists": [
+            "Gusi"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-04-09",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.41,
+        "Similarity Score": 0.4462599368686869
+    },
+    {
+        "Event Name": "Role Model with Special Guest Debbii Dawson",
+        "Artists": [
+            "ROLE MODEL",
+            "Debbii Dawson",
+            "Debbii Dawson"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-02-28",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.43,
+        "Similarity Score": 0.4460579166666667
+    },
+    {
+        "Event Name": "Club Chris Tour With Chris Olsen & Ryan Trainor",
+        "Artists": [
+            "Chris Olsen",
+            "Ryan Trainor",
+            "Ryan Trainor"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-03-27",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.43,
+        "Similarity Score": 0.4460579166666667
+    },
+    {
+        "Event Name": "dhruv",
+        "Artists": [
+            "dhruv"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-02-08",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.43,
+        "Similarity Score": 0.4460579166666667
+    },
+    {
+        "Event Name": "ASIM AZHAR x AUR: The World Tour 2025",
+        "Artists": [
+            "Asim Azhar",
+            "AUR",
+            "AUR"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-02-05",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.43,
+        "Similarity Score": 0.4460579166666667
+    },
+    {
+        "Event Name": "Club 90's - Glee Night",
+        "Artists": [
+            "Glee Night"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2024-11-30",
+        "Location": "Houston, Texas",
+        "Address": "1204 Caroline Street",
+        "Distance": 0.43,
+        "Similarity Score": 0.4460579166666667
+    },
+    {
+        "Event Name": "Teddy Swims - I've Tried Everything But Therapy Tour",
+        "Artists": [
+            "Teddy Swims"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-08-09",
+        "Location": "Houston, Texas",
+        "Address": "401 Franklin Street",
+        "Distance": 0.49,
+        "Similarity Score": 0.4454518560606061
+    },
+    {
+        "Event Name": "Kany Garc\u00eda: Garc\u00eda Tour 2024",
+        "Artists": [
+            "Kany Garcia"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2024-11-07",
+        "Location": "Houston, Texas",
+        "Address": "401 Franklin Street",
+        "Distance": 0.49,
+        "Similarity Score": 0.4454518560606061
+    },
+    {
+        "Event Name": "Shakira - Las Mujeres Ya No Lloran - World Tour",
+        "Artists": [
+            "Shakira"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-06-15",
+        "Location": "Houston, Texas",
+        "Address": "1510 Polk Street",
+        "Distance": 0.58,
+        "Similarity Score": 0.4445427651515152
     },
     {
         "Event Name": "Fontaines D.C. USA TOUR 2025",
@@ -289,8 +248,8 @@
         "Date": "2025-04-25",
         "Location": "Houston, Texas",
         "Address": "2915 N Main St",
-        "Distance": 82.04,
-        "Similarity Score": -0.37753176767676777
+        "Distance": 1.89,
+        "Similarity Score": 0.431310441919192
     },
     {
         "Event Name": "Good Kid: Chaos Kid Tour w/ Phoneboy",
@@ -306,7 +265,54 @@
         "Date": "2025-03-01",
         "Location": "Houston, Texas",
         "Address": "2915 N Main St",
-        "Distance": 82.04,
-        "Similarity Score": -0.37753176767676777
+        "Distance": 1.89,
+        "Similarity Score": 0.431310441919192
+    },
+    {
+        "Event Name": "hannah bahng: The Abysmal Tour",
+        "Artists": [
+            "hannah bahng"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2024-12-03",
+        "Location": "Houston, Texas",
+        "Address": "2915 N Main St,",
+        "Distance": 1.89,
+        "Similarity Score": 0.431310441919192
+    },
+    {
+        "Event Name": "bixby - Desire Tour",
+        "Artists": [
+            "bixby",
+            "Joon",
+            "Joon"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2024-11-09",
+        "Location": "Houston, Texas",
+        "Address": "2915 N Main St,",
+        "Distance": 1.89,
+        "Similarity Score": 0.431310441919192
+    },
+    {
+        "Event Name": "Homeshake with Green-House",
+        "Artists": [
+            "Homeshake"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2024-11-15",
+        "Location": "Houston, Texas",
+        "Address": "2915 N Main St",
+        "Distance": 1.89,
+        "Similarity Score": 0.431310441919192
     }
 ]

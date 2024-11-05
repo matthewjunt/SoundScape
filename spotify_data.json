@@ -41,6 +41,13 @@
             ]
         },
         {
+            "Track Name": "American Material",
+            "Artists": [
+                "Nolen Durham"
+            ],
+            "Genres": []
+        },
+        {
             "Track Name": "Cigarette",
             "Artists": [
                 "Shaya Zamora"
@@ -48,11 +55,19 @@
             "Genres": []
         },
         {
-            "Track Name": "American Material",
+            "Track Name": "Northern Attitude (with Hozier)",
             "Artists": [
-                "Nolen Durham"
+                "Noah Kahan",
+                "Hozier"
             ],
-            "Genres": []
+            "Genres": [
+                "pov: indie",
+                "singer-songwriter pop",
+                "irish singer-songwriter",
+                "modern rock",
+                "pop",
+                "pov: indie"
+            ]
         },
         {
             "Track Name": "vices",
@@ -82,31 +97,6 @@
             ]
         },
         {
-            "Track Name": "Northern Attitude (with Hozier)",
-            "Artists": [
-                "Noah Kahan",
-                "Hozier"
-            ],
-            "Genres": [
-                "pov: indie",
-                "singer-songwriter pop",
-                "irish singer-songwriter",
-                "modern rock",
-                "pop",
-                "pov: indie"
-            ]
-        },
-        {
-            "Track Name": "No Complaints",
-            "Artists": [
-                "Noah Kahan"
-            ],
-            "Genres": [
-                "pov: indie",
-                "singer-songwriter pop"
-            ]
-        },
-        {
             "Track Name": "New Perspective",
             "Artists": [
                 "Noah Kahan"
@@ -125,6 +115,16 @@
                 "acoustic pop",
                 "ambient worship",
                 "chamber pop"
+            ]
+        },
+        {
+            "Track Name": "No Complaints",
+            "Artists": [
+                "Noah Kahan"
+            ],
+            "Genres": [
+                "pov: indie",
+                "singer-songwriter pop"
             ]
         },
         {
@@ -253,6 +253,18 @@
             "Genres": [
                 "pov: indie",
                 "singer-songwriter pop"
+            ]
+        },
+        {
+            "Track Name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
+            "Artists": [
+                "$uicideboy$"
+            ],
+            "Genres": [
+                "cloud rap",
+                "dark trap",
+                "new orleans rap",
+                "underground hip hop"
             ]
         },
         {
@@ -396,18 +408,6 @@
             ],
             "Genres": [
                 "sad rap"
-            ]
-        },
-        {
-            "Track Name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
-            "Artists": [
-                "$uicideboy$"
-            ],
-            "Genres": [
-                "cloud rap",
-                "dark trap",
-                "new orleans rap",
-                "underground hip hop"
             ]
         },
         {
@@ -796,7 +796,7 @@
         {
             "Artist Name": "Miles Hardt",
             "Genres": [
-                "la pop" 
+                "la pop"
             ]
         },
         {
@@ -824,8 +824,8 @@
         "chill pop",
         "chill r&b",
         "lo-fi chill",
-        "indie pop rap",
         "cloud rap",
+        "indie pop rap",
         "modern rock",
         "rap",
         "alt z",
