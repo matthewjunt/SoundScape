@@ -1,0 +1,5738 @@
+{
+    "events": [
+        {
+            "Event Name": "Metallica M72 World Tour",
+            "Venue": {
+                "Name": "NRG Stadium",
+                "Address": "One NRG Park",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.684885",
+                "Longitude": "-95.410875",
+                "Distance": 85.32
+            },
+            "Date and Time": "2025-06-14",
+            "Time": "18:00:00",
+            "Genres": [
+                "Metal"
+            ],
+            "Subgenres": [
+                "Nu-Metal"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Metallica",
+                "Pantera",
+                "Suicidal Tendencies"
+            ],
+            "Supporting Acts": [
+                "Pantera",
+                "Suicidal Tendencies"
+            ]
+        },
+        {
+            "Event Name": "The 5 Browns",
+            "Venue": {
+                "Name": "Rudder Theatre",
+                "Address": "Suite 205 Rudder Tower",
+                "City": "College Station",
+                "State": "Texas",
+                "Latitude": "30.607901",
+                "Longitude": "-96.353798",
+                "Distance": 0.87
+            },
+            "Date and Time": "2025-02-06",
+            "Time": "19:30:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The 5 Browns"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "William Clark Green",
+            "Venue": {
+                "Name": "Hurricane Harry's",
+                "Address": "313 College Ave.",
+                "City": "College Station",
+                "State": "Texas",
+                "Latitude": "30.541599",
+                "Longitude": "-96.229797",
+                "Distance": 8.7
+            },
+            "Date and Time": "2024-11-22",
+            "Time": "22:00:00",
+            "Genres": [
+                "Country"
+            ],
+            "Subgenres": [
+                "Country Folk"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "William Clark Green"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "The Kingdom Choir",
+            "Venue": {
+                "Name": "Rudder Auditorium",
+                "Address": "401 Joe Routt Boulevard",
+                "City": "College Station",
+                "State": "Texas",
+                "Latitude": "30.541599",
+                "Longitude": "-96.229797",
+                "Distance": 8.7
+            },
+            "Date and Time": "2024-11-21",
+            "Time": "19:30:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Kingdom Choir"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "R\u00dcF\u00dcS DU SOL Inhale / Exhale World Tour 2025",
+            "Venue": {
+                "Name": "The Cynthia Woods Mitchell Pavilion presented by Huntsman",
+                "Address": "2005 Lake Robbins Dr",
+                "City": "The Woodlands",
+                "State": "Texas",
+                "Latitude": "30.16190839",
+                "Longitude": "-95.46435087",
+                "Distance": 61.27
+            },
+            "Date and Time": "2025-04-24",
+            "Time": "19:30:00",
+            "Genres": [
+                "Dance/Electronic"
+            ],
+            "Subgenres": [
+                "Witchstep"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "R\u00dcF\u00dcS DU SOL",
+                "Sofia Kourtesis"
+            ],
+            "Supporting Acts": [
+                "Sofia Kourtesis"
+            ]
+        },
+        {
+            "Event Name": "King Gizzard & the Lizard Wizard - 3 Hour Marathon Set",
+            "Venue": {
+                "Name": "Germania Insurance Amphitheater",
+                "Address": "9201 Circuit of the Americas Blvd.",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.13538",
+                "Longitude": "-97.63801",
+                "Distance": 83.95
+            },
+            "Date and Time": "2024-11-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "King Gizzard and the Lizard Wizard",
+                "King Stingray"
+            ],
+            "Supporting Acts": [
+                "King Stingray"
+            ]
+        },
+        {
+            "Event Name": "Creed - Are You Ready? Tour",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-11-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Creed",
+                "3 Doors Down",
+                "Mammoth WVH"
+            ],
+            "Supporting Acts": [
+                "3 Doors Down",
+                "Mammoth WVH"
+            ]
+        },
+        {
+            "Event Name": "Cigarettes After Sex - X's World Tour",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-11-24",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Cigarettes After Sex"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-11-09",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-11-10",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-11-16",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-11-17",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-11-23",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-11-24",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-11-29",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-11-30",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Texas Renaissance Festival",
+            "Venue": {
+                "Name": "Texas Renaissance Festival",
+                "Address": "21778 Farm to Market 1774",
+                "City": "Plantersville",
+                "State": "Texas",
+                "Latitude": "30.297501",
+                "Longitude": "-95.8592",
+                "Distance": 36.48
+            },
+            "Date and Time": "2024-12-01",
+            "Time": "09:00:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Texas Renaissance Festival"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Mariah Carey: Mariah Carey's Christmas Time",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-11-17",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Mariah Carey"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Cyndi Lauper: Girls Just Wanna Have Fun Farewell Tour",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-11-14",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Cyndi Lauper",
+                "Aly & AJ"
+            ],
+            "Supporting Acts": [
+                "Aly & AJ"
+            ]
+        },
+        {
+            "Event Name": "Singalong 2025 With Phil Wickham",
+            "Venue": {
+                "Name": "Houston's First Baptist Church",
+                "Address": "7401 Katy Fwy",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78242392",
+                "Longitude": "-95.46009686",
+                "Distance": 78.31
+            },
+            "Date and Time": "2025-01-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Phil Wickham",
+                "Cody Carnes",
+                "Kristian Stanfill"
+            ],
+            "Supporting Acts": [
+                "Cody Carnes",
+                "Kristian Stanfill"
+            ]
+        },
+        {
+            "Event Name": "Trans-Siberian Orchestra-The Lost Christmas Eve",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-12-04",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Trans-Siberian Orchestra"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "2hollis",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-01-16",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "2hollis"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Kylie Minogue - Tension Tour",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2025-04-17",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Kylie Minogue",
+                "Rita Ora"
+            ],
+            "Supporting Acts": [
+                "Rita Ora"
+            ]
+        },
+        {
+            "Event Name": "King Gizzard and the Lizard Wizard",
+            "Venue": {
+                "Name": "White Oak Music Hall Lawn",
+                "Address": "2915 N Main Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.785971",
+                "Longitude": "-95.366997",
+                "Distance": 81.99
+            },
+            "Date and Time": "2024-11-16",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "King Gizzard and the Lizard Wizard",
+                "King Stingray"
+            ],
+            "Supporting Acts": [
+                "King Stingray"
+            ]
+        },
+        {
+            "Event Name": "Bonnie Raitt: Just Like That... Tour 2024",
+            "Venue": {
+                "Name": "Hobby Center",
+                "Address": "800 Bagby",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7617639",
+                "Longitude": "-95.368798",
+                "Distance": 83.1
+            },
+            "Date and Time": "2024-11-06",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Bonnie Raitt",
+                "James Hunter"
+            ],
+            "Supporting Acts": [
+                "James Hunter"
+            ]
+        },
+        {
+            "Event Name": "Teddy Swims - I've Tried Everything But Therapy Tour",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-08-09",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Teddy Swims"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "for KING + COUNTRY LIVE: The UNSUNG HERO 2024 Tour",
+            "Venue": {
+                "Name": "H-E-B Center at Cedar Park",
+                "Address": "2100 Avenue of the Stars",
+                "City": "Cedar Park",
+                "State": "Texas",
+                "Latitude": "30.5393195",
+                "Longitude": "-97.82448",
+                "Distance": 88.14
+            },
+            "Date and Time": "2024-11-08",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "for KING & COUNTRY"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Rainbow Kitten Surprise: Love Hate Music Box Tour",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-11-08",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Rainbow Kitten Surprise",
+                "Madi Diaz"
+            ],
+            "Supporting Acts": [
+                "Madi Diaz"
+            ]
+        },
+        {
+            "Event Name": "Justin Timberlake The Forget Tomorrow World Tour",
+            "Venue": {
+                "Name": "Toyota Center - TX",
+                "Address": "1510 Polk St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.759399",
+                "Longitude": "-95.362999",
+                "Distance": 83.46
+            },
+            "Date and Time": "2024-12-04",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Justin Timberlake"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "KISS OF LIFE WORLD TOUR: KISS ROAD",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-11-26",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "K-Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "KISS OF LIFE"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Cyndi Lauper: Girls Just Wanna Have Fun Farewell Tour",
+            "Venue": {
+                "Name": "Toyota Center - TX",
+                "Address": "1510 Polk St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.759399",
+                "Longitude": "-95.362999",
+                "Distance": 83.46
+            },
+            "Date and Time": "2024-11-16",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Cyndi Lauper"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Nick Carter",
+            "Venue": {
+                "Name": "Stafford Centre",
+                "Address": "10505 Cash Road",
+                "City": "Stafford",
+                "State": "Texas",
+                "Latitude": "29.6248",
+                "Longitude": "-95.563301",
+                "Distance": 83.06
+            },
+            "Date and Time": "2024-11-19",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Nick Carter"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Kany Garc\u00eda: Garc\u00eda Tour 2024",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-11-07",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Kany Garcia"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Faye Webster",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-02-21",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Faye Webster"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Mariah Carey: Mariah Carey's Christmas Time",
+            "Venue": {
+                "Name": "Toyota Center - TX",
+                "Address": "1510 Polk St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.759399",
+                "Longitude": "-95.362999",
+                "Distance": 83.46
+            },
+            "Date and Time": "2024-11-19",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Mariah Carey"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Teddy Swims - I've Tried Everything But Therapy Tour",
+            "Venue": {
+                "Name": "Moody Amphitheater",
+                "Address": "1401 North Trinity Street",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.272177",
+                "Longitude": "-97.734858",
+                "Distance": 86.14
+            },
+            "Date and Time": "2025-08-06",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Teddy Swims"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Three Dog Night",
+            "Venue": {
+                "Name": "Arena Theatre",
+                "Address": "7326 Southwest Fwy,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.702271",
+                "Longitude": "-95.517765",
+                "Distance": 80.33
+            },
+            "Date and Time": "2024-11-15",
+            "Time": "20:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Three Dog Night"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "INTERPOL WITH SPECIAL GUEST: And You Will Know Us By The Trail Of Dead",
+            "Venue": {
+                "Name": "Moody Amphitheater",
+                "Address": "1401 North Trinity Street",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.272177",
+                "Longitude": "-97.734858",
+                "Distance": 86.14
+            },
+            "Date and Time": "2024-11-21",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Interpol",
+                "...And You Will Know Us By the Trail of Dead"
+            ],
+            "Supporting Acts": [
+                "...And You Will Know Us By the Trail of Dead"
+            ]
+        },
+        {
+            "Event Name": "Tyler, The Creator - CHROMAKOPIA: THE WORLD TOUR",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2025-03-15",
+            "Time": "19:30:00",
+            "Genres": [
+                "Hip-Hop/Rap"
+            ],
+            "Subgenres": [
+                "French Rap"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Tyler, The Creator",
+                "Lil Yachty",
+                "Paris Texas"
+            ],
+            "Supporting Acts": [
+                "Lil Yachty",
+                "Paris Texas"
+            ]
+        },
+        {
+            "Event Name": "Richard Marx",
+            "Venue": {
+                "Name": "Arena Theatre",
+                "Address": "7326 Southwest Fwy,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.702271",
+                "Longitude": "-95.517765",
+                "Distance": 80.33
+            },
+            "Date and Time": "2024-12-13",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Richard Marx"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Local Natives: Time Will Wait For No One But I'll Wait For You Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-08",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Local Natives",
+                "Krooked Kings"
+            ],
+            "Supporting Acts": [
+                "Krooked Kings"
+            ]
+        },
+        {
+            "Event Name": "Fontaines D.C. USA TOUR 2025",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-04-25",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Fontaines D.C."
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Picus - Evolution Tour 2024",
+            "Venue": {
+                "Name": "Arena Theatre",
+                "Address": "7326 Southwest Fwy,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.702271",
+                "Longitude": "-95.517765",
+                "Distance": 80.33
+            },
+            "Date and Time": "2024-12-07",
+            "Time": "18:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Picus"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Dawes",
+            "Venue": {
+                "Name": "Heights Theater",
+                "Address": "339 W 19th St, Houston, TX 77008",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.798201",
+                "Longitude": "-95.418297",
+                "Distance": 79.23
+            },
+            "Date and Time": "2024-12-14",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Dawes"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Highly Suspect",
+            "Venue": {
+                "Name": "Bayou Music Center",
+                "Address": "520 Texas Ave.",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7628087",
+                "Longitude": "-95.3672891",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-11-08",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Highly Suspect",
+                "Return to Dust"
+            ],
+            "Supporting Acts": [
+                "Return to Dust"
+            ]
+        },
+        {
+            "Event Name": "David Kushner",
+            "Venue": {
+                "Name": "Bayou Music Center",
+                "Address": "520 Texas Ave.",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7628087",
+                "Longitude": "-95.3672891",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-11-09",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "David Kushner",
+                "Henrik"
+            ],
+            "Supporting Acts": [
+                "Henrik"
+            ]
+        },
+        {
+            "Event Name": "The Driver Era: Obsession Tour",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-03-22",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Driver Era"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Underoath - They're Only Chasing Safety 20th Anniversary Tour",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-11-19",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Underoath",
+                "Static Dress"
+            ],
+            "Supporting Acts": [
+                "Static Dress"
+            ]
+        },
+        {
+            "Event Name": "Johnnyswim",
+            "Venue": {
+                "Name": "Austin City Limits Live at The Moody Theater",
+                "Address": "310 W Willie Nelson Blvd",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.2721",
+                "Longitude": "-97.742401",
+                "Distance": 86.57
+            },
+            "Date and Time": "2025-03-24",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "JOHNNYSWIM"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Marc Broussard",
+            "Venue": {
+                "Name": "Heights Theater",
+                "Address": "339 W 19th St, Houston, TX 77008",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.798201",
+                "Longitude": "-95.418297",
+                "Distance": 79.23
+            },
+            "Date and Time": "2024-12-05",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Adult Contemporary"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Marc Broussard"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Hippo Campus",
+            "Venue": {
+                "Name": "Austin City Limits Live at The Moody Theater",
+                "Address": "310 W Willie Nelson Blvd",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.2721",
+                "Longitude": "-97.742401",
+                "Distance": 86.57
+            },
+            "Date and Time": "2025-05-21",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Hippo Campus"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "OMD",
+            "Venue": {
+                "Name": "Bayou Music Center",
+                "Address": "520 Texas Ave.",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7628087",
+                "Longitude": "-95.3672891",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-06-02",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "OMD"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Role Model with Special Guest Debbii Dawson",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-02-28",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "ROLE MODEL",
+                "Debbii Dawson"
+            ],
+            "Supporting Acts": [
+                "Debbii Dawson"
+            ]
+        },
+        {
+            "Event Name": "Bullet for My Valentine & Trivium: The Poisoned Ascendancy Tour 2025",
+            "Venue": {
+                "Name": "Bayou Music Center",
+                "Address": "520 Texas Ave.",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7628087",
+                "Longitude": "-95.3672891",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-04-17",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Bullet for My Valentine",
+                "Trivium",
+                "August Burns Red",
+                "Sylosis"
+            ],
+            "Supporting Acts": [
+                "Trivium",
+                "August Burns Red",
+                "Sylosis"
+            ]
+        },
+        {
+            "Event Name": "Fontaines D.C. USA TOUR 2025",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2025-04-26",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Fontaines D.C."
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Amyl and The Sniffers: Cartoon Darkness Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-04-06",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Amyl and the Sniffers",
+                "Sheer Mag"
+            ],
+            "Supporting Acts": [
+                "Sheer Mag"
+            ]
+        },
+        {
+            "Event Name": "Justin Timberlake - The Forget Tomorrow World Tour",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2025-02-03",
+            "Time": "19:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Justin Timberlake"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "UNDEROATH \"THEY'RE  ONLY CHASING SAFETY 20th ANNIVERSARY\" TOUR",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2024-11-18",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Underoath",
+                "Static Dress"
+            ],
+            "Supporting Acts": [
+                "Static Dress"
+            ]
+        },
+        {
+            "Event Name": "Foster the People",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-03-05",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Foster the People",
+                "Good Neighbours"
+            ],
+            "Supporting Acts": [
+                "Good Neighbours"
+            ]
+        },
+        {
+            "Event Name": "Good Kid: Chaos Kid Tour w/ Phoneboy",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-01",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Good Kid",
+                "Phoneboy"
+            ],
+            "Supporting Acts": [
+                "Phoneboy"
+            ]
+        },
+        {
+            "Event Name": "Real Estate: MORE TOUR",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-09",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Real Estate",
+                "Grumpy"
+            ],
+            "Supporting Acts": [
+                "Grumpy"
+            ]
+        },
+        {
+            "Event Name": "Dreamcatcher 2024 World Tour [Luck Inside 7 Doors] in USA",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-11-20",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "K-Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Dreamcatcher"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "101X Presents: Rise Against",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2024-11-09",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Rise Against",
+                "L.S. Dunes",
+                "Cloud Nothings"
+            ],
+            "Supporting Acts": [
+                "L.S. Dunes",
+                "Cloud Nothings"
+            ]
+        },
+        {
+            "Event Name": "Manchester Orchestra and Thrice: Cope and Beggars 2024 Tour",
+            "Venue": {
+                "Name": "Bayou Music Center",
+                "Address": "520 Texas Ave.",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7628087",
+                "Longitude": "-95.3672891",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-11-20",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Manchester Orchestra",
+                "THRICE",
+                "lunar vacation"
+            ],
+            "Supporting Acts": [
+                "THRICE",
+                "lunar vacation"
+            ]
+        },
+        {
+            "Event Name": "Luke Hemmings: Nostalgia For A Time That Never Existed: Part 2",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-11-13",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Luke Hemmings",
+                "sombr"
+            ],
+            "Supporting Acts": [
+                "sombr"
+            ]
+        },
+        {
+            "Event Name": "Role Model with Special Guest Debbii Dawson",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2025-03-02",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "ROLE MODEL",
+                "Debbii Dawson"
+            ],
+            "Supporting Acts": [
+                "Debbii Dawson"
+            ]
+        },
+        {
+            "Event Name": "Gary Clark Jr",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-03-01",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Gary Clark Jr"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Duster with Dirty Art Club",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-06",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Duster",
+                "Dirty Art Club"
+            ],
+            "Supporting Acts": [
+                "Dirty Art Club"
+            ]
+        },
+        {
+            "Event Name": "hannah bahng: The Abysmal Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-12-03",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "hannah bahng"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "bixby - Desire Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-09",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "bixby",
+                "Joon"
+            ],
+            "Supporting Acts": [
+                "Joon"
+            ]
+        },
+        {
+            "Event Name": "Homeshake with Green-House",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Homeshake"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Pity Party (Girls Club)",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-04",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Pity Party (Girls Club)",
+                "Exossi",
+                "Orion 224",
+                "JAID"
+            ],
+            "Supporting Acts": [
+                "Exossi",
+                "Orion 224",
+                "JAID"
+            ]
+        },
+        {
+            "Event Name": "Livingston - A Hometown Odyssey Tour - Part 2",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-24",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Livingston",
+                "Camylio"
+            ],
+            "Supporting Acts": [
+                "Camylio"
+            ]
+        },
+        {
+            "Event Name": "Zach Templar - The Templar Tour North America  ",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-12",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Zach Templar",
+                "Frank Sativa"
+            ],
+            "Supporting Acts": [
+                "Frank Sativa"
+            ]
+        },
+        {
+            "Event Name": "mxmtoon - liminal space tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-25",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "mxmtoon"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Toro y Moi & Panda Bear With Guest Kassie Krut",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-05-13",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Toro y Moi",
+                "Panda Bear",
+                "Kassie Krut"
+            ],
+            "Supporting Acts": [
+                "Panda Bear",
+                "Kassie Krut"
+            ]
+        },
+        {
+            "Event Name": "Blackberry Smoke: Rattle, Ramble and Roll Tour 2025",
+            "Venue": {
+                "Name": "713 Music Hall",
+                "Address": "401 Franklin Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.76539",
+                "Longitude": "-95.36416",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-03-28",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Blackberry Smoke"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "James Bay - Up All Night Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-04-29",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "James Bay"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Soccer Mommy",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-21",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Soccer Mommy",
+                "Hana Vu"
+            ],
+            "Supporting Acts": [
+                "Hana Vu"
+            ]
+        },
+        {
+            "Event Name": "Lauren Mayberry - Vicious Creature Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-24",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Lauren Mayberry"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Phantogram - Running THROUGH Colors Tour",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-01-25",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Phantogram"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "HOT TO GO",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-29",
+            "Time": "21:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Party Iconic"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Selin x Deniz Love ",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-10",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Selin",
+                "Deniz Love"
+            ],
+            "Supporting Acts": [
+                "Deniz Love"
+            ]
+        },
+        {
+            "Event Name": "Lauren Sanderson - Girl From The Internet Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-01-28",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Lauren Sanderson"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Panchiko",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-11-23",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Panchiko"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "SKYROCKET PRESENTS NYE 2024",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-12-31",
+            "Time": "20:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "SKYROCKET"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Magic City Hippies - Enemies Tour w/ Mustard Service",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-09",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Magic City Hippies",
+                "Mustard Service"
+            ],
+            "Supporting Acts": [
+                "Mustard Service"
+            ]
+        },
+        {
+            "Event Name": "Bingo Loco",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-12-28",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Bingo Loco"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Goose New Year's Eve: A Formal Affair Tour",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-12-31",
+            "Time": "21:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Goose"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Reverend Horton Heat",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-13",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Reverend Horton Heat"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Equipment / Riley!",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-19",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Equipment",
+                "Riley!"
+            ],
+            "Supporting Acts": [
+                "Riley!"
+            ]
+        },
+        {
+            "Event Name": "Jelani Aryeh",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-08",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Jelani Aryeh"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Emo Night Brooklyn",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-27",
+            "Time": "21:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Emo Night Brooklyn"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "The Plot In You: North America 2025",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-02",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Plot In You",
+                "Holding Absence",
+                "Boundaries",
+                "Acres"
+            ],
+            "Supporting Acts": [
+                "Holding Absence",
+                "Boundaries",
+                "Acres"
+            ]
+        },
+        {
+            "Event Name": "The Dirty Nil - Winter 2025 Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-07",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Dirty Nil",
+                "Grumpster",
+                "Bug Bath"
+            ],
+            "Supporting Acts": [
+                "Grumpster",
+                "Bug Bath"
+            ]
+        },
+        {
+            "Event Name": "Why Bonnie",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-12-08",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Why Bonnie",
+                "Skirts"
+            ],
+            "Supporting Acts": [
+                "Skirts"
+            ]
+        },
+        {
+            "Event Name": "Party Iconic",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-12-27",
+            "Time": "21:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Party Iconic"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Bright Light Social Hour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-21",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Bright Light Social Hour"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Arms Akimbo",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-06",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Arms Akimbo"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Alt Bloom",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-08",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Alt Bloom"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "SPELLLING",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-04-29",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "SPELLLING"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "William Beckmann's 2024 Las Posadas Tour w/Special Guest Harper O'Neil",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-12-21",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "William Beckmann",
+                "Harper O'Neill"
+            ],
+            "Supporting Acts": [
+                "Harper O'Neill"
+            ]
+        },
+        {
+            "Event Name": "Hell's Heroes Preparty",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-19",
+            "Time": "16:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Grave Digger",
+                "Satan",
+                "Helstar",
+                "Century",
+                "Spiter"
+            ],
+            "Supporting Acts": [
+                "Satan",
+                "Helstar",
+                "Century",
+                "Spiter"
+            ]
+        },
+        {
+            "Event Name": "Senses Fail / Saves The Day: New Jersey vs. The World",
+            "Venue": {
+                "Name": "Emo's Austin",
+                "Address": "2015 E Riverside Dr.",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.239574",
+                "Longitude": "-97.728048",
+                "Distance": 86.42
+            },
+            "Date and Time": "2024-11-05",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Senses Fail",
+                "Saves the Day",
+                "Narrow Head"
+            ],
+            "Supporting Acts": [
+                "Saves the Day",
+                "Narrow Head"
+            ]
+        },
+        {
+            "Event Name": "MJ Lenderman & The Wind: Manning Fireworks Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-05",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "MJ Lenderman",
+                "Wild Pink"
+            ],
+            "Supporting Acts": [
+                "Wild Pink"
+            ]
+        },
+        {
+            "Event Name": "Apocalyptica Plays Metallica Vol. 2 Tour",
+            "Venue": {
+                "Name": "Bayou Music Center",
+                "Address": "520 Texas Ave.",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7628087",
+                "Longitude": "-95.3672891",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-03-08",
+            "Time": "19:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Apocalyptica",
+                "Nita Strauss"
+            ],
+            "Supporting Acts": [
+                "Nita Strauss"
+            ]
+        },
+        {
+            "Event Name": "John Hiatt",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-11-22",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "John Hiatt",
+                "Chris Lively"
+            ],
+            "Supporting Acts": [
+                "Chris Lively"
+            ]
+        },
+        {
+            "Event Name": "flipturn: The Burnout Days Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-26",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "flipturn"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Goose New Year's Eve: A Formal Affair Tour",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-12-30",
+            "Time": "19:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Goose"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "The Story So Far: I Want To Disappear in the USA Tour",
+            "Venue": {
+                "Name": "Bayou Music Center",
+                "Address": "520 Texas Ave.",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7628087",
+                "Longitude": "-95.3672891",
+                "Distance": 83.12
+            },
+            "Date and Time": "2024-12-06",
+            "Time": "19:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Punk"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Story So Far",
+                "Superheaven",
+                "Koyo"
+            ],
+            "Supporting Acts": [
+                "Superheaven",
+                "Koyo"
+            ]
+        },
+        {
+            "Event Name": "Last Dinosaurs",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-23",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Last Dinosaurs"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "The Front Bottoms",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-11-27",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Front Bottoms",
+                "Hey, Nothing"
+            ],
+            "Supporting Acts": [
+                "Hey, Nothing"
+            ]
+        },
+        {
+            "Event Name": "JJ Grey & Mofro: Olustee Tour with support from Andy Frasco (Duo)",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-01-16",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "JJ Grey & Mofro",
+                "Andy Frasco"
+            ],
+            "Supporting Acts": [
+                "Andy Frasco"
+            ]
+        },
+        {
+            "Event Name": "Stop Light Observations",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-16",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Stop Light Observations",
+                "The Mammoths"
+            ],
+            "Supporting Acts": [
+                "The Mammoths"
+            ]
+        },
+        {
+            "Event Name": "KUTX Presents: Amyl and the Sniffers: Cartoon Darkness Tour",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2025-04-05",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Amyl and the Sniffers",
+                "Sheer Mag"
+            ],
+            "Supporting Acts": [
+                "Sheer Mag"
+            ]
+        },
+        {
+            "Event Name": "Cursive",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-22",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Cursive"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "COIN: I'm Not Afraid Of Tour Anymore",
+            "Venue": {
+                "Name": "Bayou Music Center",
+                "Address": "520 Texas Ave.",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7628087",
+                "Longitude": "-95.3672891",
+                "Distance": 83.12
+            },
+            "Date and Time": "2025-03-01",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "COIN",
+                "The Greeting Committee"
+            ],
+            "Supporting Acts": [
+                "The Greeting Committee"
+            ]
+        },
+        {
+            "Event Name": "Ride",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-12-12",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Ride",
+                "Rocket"
+            ],
+            "Supporting Acts": [
+                "Rocket"
+            ]
+        },
+        {
+            "Event Name": "Aerosmith: PEACE OUT The Farewell Tour with The Black Crowes",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-11-06",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Aerosmith",
+                "The Black Crowes"
+            ],
+            "Supporting Acts": [
+                "The Black Crowes"
+            ]
+        },
+        {
+            "Event Name": "Dweezil Zappa: The Rox(postroph)y Tour",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-01-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Dweezil Zappa"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Tiny Moving Parts",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-11-17",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Tiny Moving Parts",
+                "Action/Adventure",
+                "Greywind"
+            ],
+            "Supporting Acts": [
+                "Action/Adventure",
+                "Greywind"
+            ]
+        },
+        {
+            "Event Name": "The Driver Era: Obsession Tour",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2025-03-21",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Driver Era"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Deftones - North American Tour 2025",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2025-03-12",
+            "Time": "19:00:00",
+            "Genres": [
+                "Metal"
+            ],
+            "Subgenres": [
+                "Nu-Metal"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Deftones",
+                "The Mars Volta",
+                "Fleshwater"
+            ],
+            "Supporting Acts": [
+                "The Mars Volta",
+                "Fleshwater"
+            ]
+        },
+        {
+            "Event Name": "High Fade",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-08",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "High Fade"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "ANDY GRAMMER - Monster Tour",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-03-13",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Andy Grammer"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Toadies",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-12-29",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Toadies",
+                "Vandoliers"
+            ],
+            "Supporting Acts": [
+                "Vandoliers"
+            ]
+        },
+        {
+            "Event Name": "Dayglow: The Tour",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2024-11-23",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Dayglow",
+                "Teenage Dads"
+            ],
+            "Supporting Acts": [
+                "Teenage Dads"
+            ]
+        },
+        {
+            "Event Name": "Pom Pom Squad -  The Mirror Ball Tour",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-25",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Pom Pom Squad",
+                "Caroline Kingsbury"
+            ],
+            "Supporting Acts": [
+                "Caroline Kingsbury"
+            ]
+        },
+        {
+            "Event Name": "The Droptines",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2024-12-12",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Droptines"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Club Chris Tour With Chris Olsen & Ryan Trainor",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-03-27",
+            "Time": "18:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Chris Olsen",
+                "Ryan Trainor"
+            ],
+            "Supporting Acts": [
+                "Ryan Trainor"
+            ]
+        },
+        {
+            "Event Name": "KPop Club Night",
+            "Venue": {
+                "Name": "White Oak Music Hall - Downstairs",
+                "Address": "2915 N Main St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-07",
+            "Time": "20:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "K-Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "KPop Club Night"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Potbelly with InDaSkies & Threader",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-01-03",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Potbelly",
+                "InDaSkies",
+                "Threader"
+            ],
+            "Supporting Acts": [
+                "InDaSkies",
+                "Threader"
+            ]
+        },
+        {
+            "Event Name": "THUS LOVE",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-10",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Punk"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "THUS LOVE"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Weatherday",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-03-27",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Weatherday"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Illiterate Light",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-02-27",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Illiterate Light"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Lutalo",
+            "Venue": {
+                "Name": "White Oak Music Hall - Upstairs ",
+                "Address": "2915 N Main St,",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.78627",
+                "Longitude": "-95.36562",
+                "Distance": 82.04
+            },
+            "Date and Time": "2025-01-30",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Lutalo"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Andy Summers from the Police",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-11-06",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Andy Summers"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "THE GHOST INSIDE \"SEARCHING FOR SOLACE TOUR\"",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-12-07",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Ghost Inside",
+                "Orthodox",
+                "Of Virtue",
+                "Gideon"
+            ],
+            "Supporting Acts": [
+                "Orthodox",
+                "Of Virtue",
+                "Gideon"
+            ]
+        },
+        {
+            "Event Name": "Donny Edwards",
+            "Venue": {
+                "Name": "Crighton Theatre",
+                "Address": "234 N. Main St.",
+                "City": "Conroe",
+                "State": "Texas",
+                "Latitude": "30.305901",
+                "Longitude": "-95.435898",
+                "Distance": 58.32
+            },
+            "Date and Time": "2025-03-15",
+            "Time": "19:30:00",
+            "Genres": [
+                "Other"
+            ],
+            "Subgenres": [
+                "Other"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Donny Edwards"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Los Lonely Boys",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-02-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Los Lonely Boys"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "AWOLNATION - THE PHANTOM FIVE TOUR",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-04-01",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "AWOLNATION",
+                "Bryce Fox"
+            ],
+            "Supporting Acts": [
+                "Bryce Fox"
+            ]
+        },
+        {
+            "Event Name": "Leanna Firestone",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2024-11-16",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Leanna Firestone",
+                "Sundial"
+            ],
+            "Supporting Acts": [
+                "Sundial"
+            ]
+        },
+        {
+            "Event Name": "Spencer Sutherland - The Drama North American Tour",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-03-01",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Spencer Sutherland"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Will Wood - Slouching Towards Bethlehem! Tour",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2024-11-22",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Will Wood"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Geoff Tate",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-03-28",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Geoff Tate",
+                "Fire and Water"
+            ],
+            "Supporting Acts": [
+                "Fire and Water"
+            ]
+        },
+        {
+            "Event Name": "MxPx w/ The Ataris",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-01-03",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "MxPx",
+                "The Ataris"
+            ],
+            "Supporting Acts": [
+                "The Ataris"
+            ]
+        },
+        {
+            "Event Name": "Big Head Todd and the Monsters - 40th Anniversary Tour",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-04-10",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Big Head Todd & the Monsters"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "dhruv",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-02-08",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "dhruv"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Dancing with the Stars: Live! - 2025 Tour",
+            "Venue": {
+                "Name": "Smart Financial Centre at Sugar Land",
+                "Address": "18111 Lexington Blvd.",
+                "City": "Sugar Land",
+                "State": "Texas",
+                "Latitude": "29.577096",
+                "Longitude": "-95.643628",
+                "Distance": 83.29
+            },
+            "Date and Time": "2025-03-09",
+            "Time": "19:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Dancing with the Stars"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "ASIM AZHAR x AUR: The World Tour 2025",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-02-05",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Asim Azhar",
+                "AUR"
+            ],
+            "Supporting Acts": [
+                "AUR"
+            ]
+        },
+        {
+            "Event Name": "David Kushner - The Dichotomy Tour",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2024-11-12",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "David Kushner",
+                "Henrik"
+            ],
+            "Supporting Acts": [
+                "Henrik"
+            ]
+        },
+        {
+            "Event Name": "Natalie Jane",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-02-12",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Natalie Jane"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Becky Hill - Believe Me Now Tour",
+            "Venue": {
+                "Name": "Emo's Austin",
+                "Address": "2015 E Riverside Dr.",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.239574",
+                "Longitude": "-97.728048",
+                "Distance": 86.42
+            },
+            "Date and Time": "2024-11-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Becky Hill"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Gusi - Solo Tuyo 2024 USA Tour",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-04-09",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Gusi"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Club 90's - Glee Night",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-11-30",
+            "Time": "20:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Glee Night"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "THE OCEAN BLUE performing their Self-Titled and Cerulean albums",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-01-10",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Ocean Blue",
+                "Brian Tighe"
+            ],
+            "Supporting Acts": [
+                "Brian Tighe"
+            ]
+        },
+        {
+            "Event Name": "Goose: 2 Day Ticket (Ticket Includes Access to BOTH Show Nights)",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-12-30",
+            "Time": "Unknown Time",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Goose"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "WILDER WOODS - THE CURIOSO TOUR",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-03-20",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Wilder Woods"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Marty Friedman",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-02-16",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Marty Friedman",
+                "Nikki Stringfield",
+                "Patrick Kennison"
+            ],
+            "Supporting Acts": [
+                "Nikki Stringfield",
+                "Patrick Kennison"
+            ]
+        },
+        {
+            "Event Name": "Confidence Man",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-03-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Confidence Man"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Jean Dawson - Glimmer of God",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-11-09",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Jean Dawson",
+                "Quadeca"
+            ],
+            "Supporting Acts": [
+                "Quadeca"
+            ]
+        },
+        {
+            "Event Name": "The Wrecks INSIDE : OUTSIDE Tour",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-05-23",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Wrecks"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Better Than Ezra presents Legends of The Fall: Tokyo Drift",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-11-21",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Better Than Ezra",
+                "Graham Colton"
+            ],
+            "Supporting Acts": [
+                "Graham Colton"
+            ]
+        },
+        {
+            "Event Name": "Ollie Wride",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-02-28",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Ollie Wride"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "The Hails + Never Ending Fall",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-03-22",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Hails",
+                "Never Ending Fall"
+            ],
+            "Supporting Acts": [
+                "Never Ending Fall"
+            ]
+        },
+        {
+            "Event Name": "Old 97's with Fastball",
+            "Venue": {
+                "Name": "Scoot Inn",
+                "Address": "1308 E 4th St",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.262134",
+                "Longitude": "-97.729399",
+                "Distance": 86.03
+            },
+            "Date and Time": "2024-11-07",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Old 97's",
+                "Fastball"
+            ],
+            "Supporting Acts": [
+                "Fastball"
+            ]
+        },
+        {
+            "Event Name": "The Main Squeeze",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-02-15",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Main Squeeze"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "The Backfires",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-02-22",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Backfires"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Saint Motel - The Symphony in the Sky Tour",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-03-07",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Saint Motel"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "MJ Lenderman & The Wind: Manning Fireworks Tour",
+            "Venue": {
+                "Name": "Emo's Austin",
+                "Address": "2015 E Riverside Dr.",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.239574",
+                "Longitude": "-97.728048",
+                "Distance": 86.42
+            },
+            "Date and Time": "2025-02-06",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "MJ Lenderman",
+                "Wild Pink"
+            ],
+            "Supporting Acts": [
+                "Wild Pink"
+            ]
+        },
+        {
+            "Event Name": "Cyndi Lauper: Girls Just Wanna Have Fun Farewell Tour",
+            "Venue": {
+                "Name": "Toyota Center",
+                "Address": "1510 Polk Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7520386",
+                "Longitude": "-95.3623133",
+                "Distance": 83.86
+            },
+            "Date and Time": "2024-11-16",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Cyndi Lauper"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Mariah Carey: Mariah Carey's Christmas Time",
+            "Venue": {
+                "Name": "Toyota Center",
+                "Address": "1510 Polk Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7520386",
+                "Longitude": "-95.3623133",
+                "Distance": 83.86
+            },
+            "Date and Time": "2024-11-19",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Mariah Carey"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Justin Timberlake The Forget Tomorrow World Tour",
+            "Venue": {
+                "Name": "Toyota Center",
+                "Address": "1510 Polk Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7520386",
+                "Longitude": "-95.3623133",
+                "Distance": 83.86
+            },
+            "Date and Time": "2024-12-04",
+            "Time": "19:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Justin Timberlake"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Trans-Siberian Orchestra - The Lost Christmas Eve",
+            "Venue": {
+                "Name": "Toyota Center",
+                "Address": "1510 Polk Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7520386",
+                "Longitude": "-95.3623133",
+                "Distance": 83.86
+            },
+            "Date and Time": "2024-12-26",
+            "Time": "19:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Trans-Siberian Orchestra"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Trans-Siberian Orchestra - The Lost Christmas Eve",
+            "Venue": {
+                "Name": "Toyota Center",
+                "Address": "1510 Polk Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7520386",
+                "Longitude": "-95.3623133",
+                "Distance": 83.86
+            },
+            "Date and Time": "2024-12-26",
+            "Time": "15:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Trans-Siberian Orchestra"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Molchat Doma Tour 2025",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-01-22",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Punk"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Molchat Doma",
+                "Sextile"
+            ],
+            "Supporting Acts": [
+                "Sextile"
+            ]
+        },
+        {
+            "Event Name": "Mark Ambor: MOVED TO EMO'S AUSTIN",
+            "Venue": {
+                "Name": "Emo's Austin",
+                "Address": "2015 E Riverside Dr.",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.239574",
+                "Longitude": "-97.728048",
+                "Distance": 86.42
+            },
+            "Date and Time": "2024-11-04",
+            "Time": "18:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Mark Ambor",
+                "Kenzie"
+            ],
+            "Supporting Acts": [
+                "Kenzie"
+            ]
+        },
+        {
+            "Event Name": "Remi Wolf",
+            "Venue": {
+                "Name": "Moody Amphitheater",
+                "Address": "1401 North Trinity Street",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.272177",
+                "Longitude": "-97.734858",
+                "Distance": 86.14
+            },
+            "Date and Time": "2025-05-05",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Remi Wolf",
+                "Dana and Alden"
+            ],
+            "Supporting Acts": [
+                "Dana and Alden"
+            ]
+        },
+        {
+            "Event Name": "Shakira - Las Mujeres Ya No Lloran - World Tour",
+            "Venue": {
+                "Name": "Toyota Center",
+                "Address": "1510 Polk Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.7520386",
+                "Longitude": "-95.3623133",
+                "Distance": 83.86
+            },
+            "Date and Time": "2025-06-15",
+            "Time": "19:30:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Shakira"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Silverstein: 25 Years Of Noise",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-01-24",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Silverstein",
+                "Thursday",
+                "Split Chain"
+            ],
+            "Supporting Acts": [
+                "Thursday",
+                "Split Chain"
+            ]
+        },
+        {
+            "Event Name": "FIFTY FIFTY: Love Sprinkle Tour",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2024-12-03",
+            "Time": "18:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "K-Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "FIFTY FIFTY"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Palace - USA & Canada 2025",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-03-02",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Palace"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Soulfly",
+            "Venue": {
+                "Name": "Warehouse Live Midtown",
+                "Address": "2600 Travis Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.741199",
+                "Longitude": "-95.391098",
+                "Distance": 83.21
+            },
+            "Date and Time": "2024-11-05",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Hard Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Soulfly"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Gwar w/ Dark Funeral",
+            "Venue": {
+                "Name": "Warehouse Live Midtown",
+                "Address": "2600 Travis Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.741199",
+                "Longitude": "-95.391098",
+                "Distance": 83.21
+            },
+            "Date and Time": "2024-11-17",
+            "Time": "19:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Hard Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "GWAR",
+                "Dark Funeral"
+            ],
+            "Supporting Acts": [
+                "Dark Funeral"
+            ]
+        },
+        {
+            "Event Name": "Morbid Angel w/ Suffocation",
+            "Venue": {
+                "Name": "Warehouse Live Midtown",
+                "Address": "2600 Travis Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.741199",
+                "Longitude": "-95.391098",
+                "Distance": 83.21
+            },
+            "Date and Time": "2024-11-19",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Hard Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Morbid Angel",
+                "Suffocation"
+            ],
+            "Supporting Acts": [
+                "Suffocation"
+            ]
+        },
+        {
+            "Event Name": "Yngwie Malmsteen",
+            "Venue": {
+                "Name": "Warehouse Live Midtown",
+                "Address": "2600 Travis Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.741199",
+                "Longitude": "-95.391098",
+                "Distance": 83.21
+            },
+            "Date and Time": "2024-11-04",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Hard Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Yngwie Malmsteen"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "The Front Bottoms",
+            "Venue": {
+                "Name": "Stubb's Waller Creek Amphitheater",
+                "Address": "801 Red River",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.268487",
+                "Longitude": "-97.736192",
+                "Distance": 86.29
+            },
+            "Date and Time": "2024-11-26",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "The Front Bottoms",
+                "Hey, Nothing"
+            ],
+            "Supporting Acts": [
+                "Hey, Nothing"
+            ]
+        },
+        {
+            "Event Name": "Nile",
+            "Venue": {
+                "Name": "Warehouse Live Midtown",
+                "Address": "2600 Travis Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.741199",
+                "Longitude": "-95.391098",
+                "Distance": 83.21
+            },
+            "Date and Time": "2025-02-22",
+            "Time": "18:30:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Hard Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Nile"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "8TURN",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-04-25",
+            "Time": "18:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "K-Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "8TURN"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Real Friends",
+            "Venue": {
+                "Name": "Last Concert Cafe",
+                "Address": "1403 Nance St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.759399",
+                "Longitude": "-95.362999",
+                "Distance": 83.46
+            },
+            "Date and Time": "2024-11-09",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Punk"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Real Friends"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Emei",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2025-03-31",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Emei"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "Natalie Jane",
+            "Venue": {
+                "Name": "The Bronze Peacock at House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.753929",
+                "Longitude": "-95.364056",
+                "Distance": 83.69
+            },
+            "Date and Time": "2026-03-05",
+            "Time": "19:00:00",
+            "Genres": [
+                "Pop"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Natalie Jane",
+                "Jessica Baio"
+            ],
+            "Supporting Acts": [
+                "Jessica Baio"
+            ]
+        },
+        {
+            "Event Name": "Deftones - North American Tour 2025",
+            "Venue": {
+                "Name": "Toyota Center - TX",
+                "Address": "1510 Polk St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.759399",
+                "Longitude": "-95.362999",
+                "Distance": 83.46
+            },
+            "Date and Time": "2025-03-16",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Hard Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Deftones",
+                "The Mars Volta",
+                "Fleshwater"
+            ],
+            "Supporting Acts": [
+                "The Mars Volta",
+                "Fleshwater"
+            ]
+        },
+        {
+            "Event Name": "RX Bandits",
+            "Venue": {
+                "Name": "House of Blues Houston",
+                "Address": "1204 Caroline Street",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.75377797",
+                "Longitude": "-95.36381697",
+                "Distance": 83.71
+            },
+            "Date and Time": "2025-03-30",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Alternative Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "RX Bandits",
+                "Bad Operation"
+            ],
+            "Supporting Acts": [
+                "Bad Operation"
+            ]
+        },
+        {
+            "Event Name": "GHOST",
+            "Venue": {
+                "Name": "Toyota Center - TX",
+                "Address": "1510 Polk St",
+                "City": "Houston",
+                "State": "Texas",
+                "Latitude": "29.759399",
+                "Longitude": "-95.362999",
+                "Distance": 83.46
+            },
+            "Date and Time": "2025-08-16",
+            "Time": "20:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Hard Rock"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "GHOST"
+            ],
+            "Supporting Acts": []
+        },
+        {
+            "Event Name": "State Champs",
+            "Venue": {
+                "Name": "Emo's Austin",
+                "Address": "2015 E Riverside Dr.",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.239574",
+                "Longitude": "-97.728048",
+                "Distance": 86.42
+            },
+            "Date and Time": "2024-11-08",
+            "Time": "18:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "State Champs",
+                "Knuckle Puck",
+                "Meet Me @ The Altar",
+                "Daisy Grenade"
+            ],
+            "Supporting Acts": [
+                "Knuckle Puck",
+                "Meet Me @ The Altar",
+                "Daisy Grenade"
+            ]
+        },
+        {
+            "Event Name": "Brooks & Dunn: Neon Moon Tour 2025",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2025-03-14",
+            "Time": "19:00:00",
+            "Genres": [
+                "Country"
+            ],
+            "Subgenres": [
+                "Country"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Brooks & Dunn",
+                "David Lee Murphy",
+                "Molly Tuttle"
+            ],
+            "Supporting Acts": [
+                "David Lee Murphy",
+                "Molly Tuttle"
+            ]
+        },
+        {
+            "Event Name": "Dayglow: The Tour",
+            "Venue": {
+                "Name": "Scoot Inn",
+                "Address": "1308 E 4th St",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.262134",
+                "Longitude": "-97.729399",
+                "Distance": 86.03
+            },
+            "Date and Time": "2024-11-22",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Dayglow",
+                "Teenage Dads"
+            ],
+            "Supporting Acts": [
+                "Teenage Dads"
+            ]
+        },
+        {
+            "Event Name": "JD McPherson with special guest Kate Clover",
+            "Venue": {
+                "Name": "Scoot Inn",
+                "Address": "1308 E 4th St",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.262134",
+                "Longitude": "-97.729399",
+                "Distance": 86.03
+            },
+            "Date and Time": "2024-11-09",
+            "Time": "19:00:00",
+            "Genres": [
+                "Rock"
+            ],
+            "Subgenres": [
+                "Pop"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "JD McPherson",
+                "Kate Clover"
+            ],
+            "Supporting Acts": [
+                "Kate Clover"
+            ]
+        },
+        {
+            "Event Name": "Jelly Roll: Beautifully Broken Tour",
+            "Venue": {
+                "Name": "Moody Center ATX",
+                "Address": "2001 Robert Dedman Drive",
+                "City": "Austin",
+                "State": "Texas",
+                "Latitude": "30.280735",
+                "Longitude": "-97.730837",
+                "Distance": 85.74
+            },
+            "Date and Time": "2024-11-19",
+            "Time": "19:00:00",
+            "Genres": [
+                "Country"
+            ],
+            "Subgenres": [
+                "Country"
+            ],
+            "Segments": [
+                "Music"
+            ],
+            "Headliners": [
+                "Jelly Roll",
+                "ERNEST",
+                "Shaboozey",
+                "Allie Colleen"
+            ],
+            "Supporting Acts": [
+                "ERNEST",
+                "Shaboozey",
+                "Allie Colleen"
+            ]
+        }
+    ]
+}

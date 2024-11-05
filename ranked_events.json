@@ -1,0 +1,312 @@
+[
+    {
+        "Event Name": "The 5 Browns",
+        "Artists": [
+            "The 5 Browns"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2025-02-06",
+        "Location": "College Station, Texas",
+        "Address": "Suite 205 Rudder Tower",
+        "Distance": 0.87,
+        "Similarity Score": 0.3282359722222222
+    },
+    {
+        "Event Name": "The Kingdom Choir",
+        "Artists": [
+            "The Kingdom Choir"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-21",
+        "Location": "College Station, Texas",
+        "Address": "401 Joe Routt Boulevard",
+        "Distance": 8.7,
+        "Similarity Score": 0.24914506313131315
+    },
+    {
+        "Event Name": "William Clark Green",
+        "Artists": [
+            "William Clark Green"
+        ],
+        "Genres": [
+            "Country",
+            "Country Folk"
+        ],
+        "Date": "2024-11-22",
+        "Location": "College Station, Texas",
+        "Address": "313 College Ave.",
+        "Distance": 8.7,
+        "Similarity Score": 0.2117275631313132
+    },
+    {
+        "Event Name": "Livingston - A Hometown Odyssey Tour - Part 2",
+        "Artists": [
+            "Livingston",
+            "Camylio",
+            "Camylio"
+        ],
+        "Genres": [
+            "Rock",
+            "Alternative Rock"
+        ],
+        "Date": "2024-11-24",
+        "Location": "Houston, Texas",
+        "Address": "2915 N Main St",
+        "Distance": 82.04,
+        "Similarity Score": 0.1723232323232322
+    },
+    {
+        "Event Name": "David Kushner",
+        "Artists": [
+            "David Kushner",
+            "Henrik",
+            "Henrik"
+        ],
+        "Genres": [
+            "Rock",
+            "Pop"
+        ],
+        "Date": "2024-11-09",
+        "Location": "Houston, Texas",
+        "Address": "520 Texas Ave.",
+        "Distance": 83.12,
+        "Similarity Score": 0.16141414141414123
+    },
+    {
+        "Event Name": "David Kushner - The Dichotomy Tour",
+        "Artists": [
+            "David Kushner",
+            "Henrik",
+            "Henrik"
+        ],
+        "Genres": [
+            "Rock",
+            "Pop"
+        ],
+        "Date": "2024-11-12",
+        "Location": "Austin, Texas",
+        "Address": "801 Red River",
+        "Distance": 86.29,
+        "Similarity Score": 0.12939393939393928
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-09",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-10",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-16",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-17",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-23",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-24",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-29",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-11-30",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Texas Renaissance Festival",
+        "Artists": [
+            "Texas Renaissance Festival"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2024-12-01",
+        "Location": "Plantersville, Texas",
+        "Address": "21778 Farm to Market 1774",
+        "Distance": 36.48,
+        "Similarity Score": -0.0314609974747474
+    },
+    {
+        "Event Name": "Donny Edwards",
+        "Artists": [
+            "Donny Edwards"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "2025-03-15",
+        "Location": "Conroe, Texas",
+        "Address": "234 N. Main St.",
+        "Distance": 58.32,
+        "Similarity Score": -0.25206705808080804
+    },
+    {
+        "Event Name": "R\u00dcF\u00dcS DU SOL Inhale / Exhale World Tour 2025",
+        "Artists": [
+            "R\u00dcF\u00dcS DU SOL",
+            "Sofia Kourtesis",
+            "Sofia Kourtesis"
+        ],
+        "Genres": [
+            "Dance/Electronic",
+            "Witchstep"
+        ],
+        "Date": "2025-04-24",
+        "Location": "The Woodlands, Texas",
+        "Address": "2005 Lake Robbins Dr",
+        "Distance": 61.27,
+        "Similarity Score": -0.31547441287878786
+    },
+    {
+        "Event Name": "Picus - Evolution Tour 2024",
+        "Artists": [
+            "Picus"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2024-12-07",
+        "Location": "Houston, Texas",
+        "Address": "7326 Southwest Fwy,",
+        "Distance": 80.33,
+        "Similarity Score": -0.36025904040404044
+    },
+    {
+        "Event Name": "Fontaines D.C. USA TOUR 2025",
+        "Artists": [
+            "Fontaines D.C."
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-04-25",
+        "Location": "Houston, Texas",
+        "Address": "2915 N Main St",
+        "Distance": 82.04,
+        "Similarity Score": -0.37753176767676777
+    },
+    {
+        "Event Name": "Good Kid: Chaos Kid Tour w/ Phoneboy",
+        "Artists": [
+            "Good Kid",
+            "Phoneboy",
+            "Phoneboy"
+        ],
+        "Genres": [
+            "Pop",
+            "Pop"
+        ],
+        "Date": "2025-03-01",
+        "Location": "Houston, Texas",
+        "Address": "2915 N Main St",
+        "Distance": 82.04,
+        "Similarity Score": -0.37753176767676777
+    }
+]
