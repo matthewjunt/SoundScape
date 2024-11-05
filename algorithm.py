@@ -86,7 +86,7 @@ def save_ranked_events(ranked_events, output_file='ranked_events.json'):
     with open(output_file, 'w') as f:
         json.dump(ranked_events, f, indent=4)
 
-if __name__ == "__main__":
+def main():
     spotify_data = load_spotify_data()
     ticketmaster_data = load_ticketmaster_data()
 
@@ -96,3 +96,7 @@ if __name__ == "__main__":
     # Optional: Print the top 20 ranked events
     # for event in ranked_events:
     #     print(f"{event['Event Name']}: {event['Similarity Score']}")
+
+
+if __name__ == '__main__':
+    main()

@@ -22,7 +22,7 @@ def get_event_data(location, radius=100, size=200):
 
     # Convert location to geohash
     geohash_code = geohash.encode(location_data.latitude, location_data.longitude, precision=9)
-    print("Geohash Code:", geohash_code)
+    #print("Geohash Code:", geohash_code)
     # Set up API request
     url = "https://app.ticketmaster.com/discovery/v2/events.json"
     params = {
@@ -47,10 +47,12 @@ def get_event_data(location, radius=100, size=200):
         print("No events found.")
         return
 
+    # Extract event data
     events = events_data['_embedded']['events']
 
     event_list = []
 
+    # Extract relevant information for each event
     for event in events:
         event_info = {
             'Event Name': event.get('name', 'Unknown Event'),
@@ -83,7 +85,9 @@ def get_event_data(location, radius=100, size=200):
     print(f"Data for {len(event_list)} events saved to 'ticketmaster_events_data.json'.")
 
 
-
-if __name__ == "__main__":
+def main():
     location = input("Enter the city where you'd like to find events (e.g., Los Angeles, New York): ")
     get_event_data(location)
+
+if __name__ == "__main__":
+    main()

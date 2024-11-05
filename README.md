@@ -44,3 +44,7 @@ pip install requests spotipy numpy fuzzywuzzy geopy
       - Run the command `python3 algorithm.py`.
       - The top 20 ranked events will be saved to `ranked_events.json`.
    - Note: Since the Spotify and Ticketmaster data files are already created using my own Spotify Data and Ticketmaster Events around Houston, just the algorithm file can be ran to test the program. 
+
+4. **Notes**
+   - While this algorithm is complete and works correctly, I may do some more refining of it based on user testing with different accounts. I am currently using my own ranking algorithm based on genre weights, artist matches, and distance calculation. However, I may implement a cosine similarity function in the future. 
+   - I have had limited ability to test this with multiple accounts, since I only have one spotify account. I did test it on one other account from a friend, but that is the extent so far that I have been able to test. I plan to conduct more testing once I have a UI created. At that point I may do some tweaking to the algorithm to refine it. 
