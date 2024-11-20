@@ -13,15 +13,20 @@ REDIRECT_URI = 'http://localhost:8888/callback'
 SCOPE = 'user-top-read'
 
 # Function to get user's top tracks
-def get_top_tracks(sp):
-    top_tracks = sp.current_user_top_tracks(limit=50, time_range='long_term')
+def get_top_tracks(sp, timerange):
+    time_ranges = {'1_year': 'long_term', '6_months': 'medium_term', '4_weeks': 'short_term'}
+    print("Selected ", timerange)
+    print("Searching ", time_ranges[timerange])
+    top_tracks = sp.current_user_top_tracks(limit=50, time_range=time_ranges[timerange])
     tracks_data = []
+       
     
     for track in top_tracks['items']:
         track_info = {
             'Track Name': track['name'],
             'Artists': [artist['name'] for artist in track['artists']],
-            'Genres': []
+            'Genres': [],
+            'Image': track['album']['images'][0]['url']
         }
         
         # Fetch genre for each artist
@@ -38,14 +43,17 @@ def get_top_tracks(sp):
     return tracks_data
 
 # Function to get user's top artists
-def get_top_artists(sp):
-    top_artists = sp.current_user_top_artists(limit=50, time_range='long_term')
-    artists_data = []
+def get_top_artists(sp, timerange):
+    time_ranges = {'1_year': 'long_term', '6_months': 'medium_term', '4_weeks': 'short_term'}
     
+    top_artists = sp.current_user_top_artists(limit=50, time_range=time_ranges[timerange])
+    artists_data = []
+
     for artist in top_artists['items']:
         artist_info = {
             'Artist Name': artist['name'],
-            'Genres': artist.get('genres', [])
+            'Genres': artist.get('genres', []),
+            'Image': artist['images'][0]['url']
         }
         artists_data.append(artist_info)
     
@@ -82,15 +90,15 @@ def calculate_genre_vector(tracks_data, artists_data):
     return genre_vector, top_genre_names
 
 # Main function to get and save the data
-def main():
+def main(timerange):
     sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=CLIENT_ID,
                                                    client_secret=CLIENT_SECRET,
                                                    redirect_uri=REDIRECT_URI,
                                                    scope=SCOPE))
 
     # Get user data
-    top_tracks = get_top_tracks(sp)
-    top_artists = get_top_artists(sp)
+    top_tracks = get_top_tracks(sp, timerange)
+    top_artists = get_top_artists(sp, timerange)
 
     # Calculate genre vector
     genre_vector, top_genres = calculate_genre_vector(top_tracks, top_artists)

@@ -56,7 +56,7 @@ def rank_events(ticketmaster_data, spotify_data):
     seen_event_names = set()  
 
     for event in ticketmaster_data:
-        event_name = event['Event Name']
+        event_name = event['Name']
         
         # Skip duplicates
         if event_name in seen_event_names:
@@ -65,21 +65,24 @@ def rank_events(ticketmaster_data, spotify_data):
         seen_event_names.add(event_name) 
         final_score = calculate_final_score(event, spotify_data)
         event_details = {
-            'Event Name': event_name,
+            'Name': event_name,
+            'ID': event.get('ID', 'N/A'),
+            'Image': event.get('Image', 'N/A'),
             'Artists': event['Headliners'] + event['Supporting Acts'],
             'Genres': event['Genres'] + event.get('Subgenres', []),
-            'Date': event.get('Date and Time'),
-            'Location': event['Venue']['City'] + ', ' + event['Venue']['State'],
+            'Date': event.get('Date'),
+            'City': event['Venue']['City'],
+            'State': event['Venue']['State'],
             'Address': event['Venue']['Address'],
             'Distance': event['Venue'].get('Distance', 'N/A'),
             'Similarity Score': final_score,
         }
         ranked_events.append(event_details)
-
+        
     # Sort events by similarity score
     ranked_events.sort(key=lambda x: x['Similarity Score'], reverse=True)
     # Return top 20 ranked events
-    return ranked_events[:20]
+    return ranked_events[:30]
 
 # Save ranked events to a JSON file
 def save_ranked_events(ranked_events, output_file='ranked_events.json'):
@@ -92,6 +95,7 @@ def main():
 
     ranked_events = rank_events(ticketmaster_data, spotify_data)
     save_ranked_events(ranked_events)
+    return ranked_events
 
     # Optional: Print the top 20 ranked events
     # for event in ranked_events:

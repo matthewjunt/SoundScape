@@ -1,58 +1,28 @@
 {
     "Top Tracks": [
         {
-            "Track Name": "Your Needs, My Needs",
+            "Track Name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
+            "Artists": [
+                "$uicideboy$"
+            ],
+            "Genres": [
+                "cloud rap",
+                "dark trap",
+                "new orleans rap",
+                "underground hip hop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273774096669395b9d64fa2fcbe"
+        },
+        {
+            "Track Name": "New Perspective",
             "Artists": [
                 "Noah Kahan"
             ],
             "Genres": [
                 "pov: indie",
                 "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "The View Between Villages - Extended",
-            "Artists": [
-                "Noah Kahan"
             ],
-            "Genres": [
-                "pov: indie",
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "HOPE",
-            "Artists": [
-                "NF"
-            ],
-            "Genres": [
-                "hip hop",
-                "pop rap"
-            ]
-        },
-        {
-            "Track Name": "Easy Now Tiger",
-            "Artists": [
-                "Hazlett"
-            ],
-            "Genres": [
-                "brisbane indie",
-                "modern indie folk"
-            ]
-        },
-        {
-            "Track Name": "American Material",
-            "Artists": [
-                "Nolen Durham"
-            ],
-            "Genres": []
-        },
-        {
-            "Track Name": "Cigarette",
-            "Artists": [
-                "Shaya Zamora"
-            ],
-            "Genres": []
+            "Image": "https://i.scdn.co/image/ab67616d0000b27365a472d8326d4571bf725422"
         },
         {
             "Track Name": "Northern Attitude (with Hozier)",
@@ -67,44 +37,41 @@
                 "modern rock",
                 "pop",
                 "pov: indie"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273ba6fb0a7e6c53fb8faa96226"
         },
         {
-            "Track Name": "vices",
+            "Track Name": "Easy Now Tiger",
             "Artists": [
-                "gavn!"
+                "Hazlett"
             ],
             "Genres": [
-                "sad rap",
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "Tell Me You Love Me",
-            "Artists": [
-                "Shaya Zamora"
+                "brisbane indie",
+                "modern indie folk"
             ],
-            "Genres": []
+            "Image": "https://i.scdn.co/image/ab67616d0000b2739dfcf6d9bcb0157850219589"
         },
         {
-            "Track Name": "RUNNING",
-            "Artists": [
-                "NF"
-            ],
-            "Genres": [
-                "hip hop",
-                "pop rap"
-            ]
-        },
-        {
-            "Track Name": "New Perspective",
+            "Track Name": "The View Between Villages - Extended",
             "Artists": [
                 "Noah Kahan"
             ],
             "Genres": [
                 "pov: indie",
                 "singer-songwriter pop"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b27365a472d8326d4571bf725422"
+        },
+        {
+            "Track Name": "Your Needs, My Needs",
+            "Artists": [
+                "Noah Kahan"
+            ],
+            "Genres": [
+                "pov: indie",
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b27365a472d8326d4571bf725422"
         },
         {
             "Track Name": "You Are Enough",
@@ -115,63 +82,83 @@
                 "acoustic pop",
                 "ambient worship",
                 "chamber pop"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273c761387d83c7c615da7008a8"
         },
         {
-            "Track Name": "No Complaints",
+            "Track Name": "American Material",
             "Artists": [
-                "Noah Kahan"
+                "Nolen Durham"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273d3ed9002b43ad4cafd8cba56"
+        },
+        {
+            "Track Name": "Without Me",
+            "Artists": [
+                "Halsey"
             ],
             "Genres": [
-                "pov: indie",
+                "electropop",
+                "etherpop",
+                "indie poptimism",
+                "pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273c42acc1b86597285c2c79559"
+        },
+        {
+            "Track Name": "lesson learned",
+            "Artists": [
+                "Matt Hansen"
+            ],
+            "Genres": [
+                "gen z singer-songwriter",
                 "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "Your Eyes Tell Stories",
-            "Artists": [
-                "Bo Staloch"
             ],
-            "Genres": []
+            "Image": "https://i.scdn.co/image/ab67616d0000b2732f570161c6672d6be7066679"
         },
         {
-            "Track Name": "The Night We Met",
+            "Track Name": "Kentucky",
             "Artists": [
-                "Lord Huron"
+                "Noah Martis"
             ],
-            "Genres": [
-                "indie folk",
-                "stomp and holler"
-            ]
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273f461e45819d45cc03ab398fe"
         },
         {
-            "Track Name": "Picture",
+            "Track Name": "Thought of You",
             "Artists": [
-                "Fiji Blue"
+                "Sam Barber"
             ],
             "Genres": [
-                "chill pop",
-                "chill r&b"
-            ]
+                "modern country pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273c30e1b1046a074d66d1aa20f"
         },
         {
-            "Track Name": "Dear Depression,",
+            "Track Name": "Be Here With Me Now",
             "Artists": [
-                "Presence"
+                "MC4D",
+                "\u0141aszewo",
+                "gavn!"
             ],
             "Genres": [
-                "sad rap"
-            ]
+                "indie electropop",
+                "sad rap",
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273ee167bccdf5c263214b0b2bb"
         },
         {
-            "Track Name": "Waves",
+            "Track Name": "Hurtless",
             "Artists": [
                 "Dean Lewis"
             ],
             "Genres": [
                 "australian pop",
                 "pop"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273991f6658282ef028f93b11e0"
         },
         {
             "Track Name": "I Don't Understand",
@@ -182,26 +169,18 @@
                 "lo-fi chill",
                 "sad lo-fi",
                 "sad rap"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b27332722606408ed5dfd0f1dd6e"
         },
         {
-            "Track Name": "Call Your Mom",
+            "Track Name": "Days On End",
             "Artists": [
-                "Noah Kahan"
+                "Brenn!"
             ],
             "Genres": [
-                "pov: indie",
                 "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "Just Hold Me",
-            "Artists": [
-                "Ely Waves"
             ],
-            "Genres": [
-                "sad rap"
-            ]
+            "Image": "https://i.scdn.co/image/ab67616d0000b2737d21f3cbf5aa1ee36f6d5fa0"
         },
         {
             "Track Name": "All My Love",
@@ -211,61 +190,292 @@
             "Genres": [
                 "pov: indie",
                 "singer-songwriter pop"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b27365a472d8326d4571bf725422"
         },
         {
-            "Track Name": "Alone",
+            "Track Name": "Bones",
             "Artists": [
-                "SadBoyProlific",
-                "ivri"
+                "Jared Benjamin"
             ],
             "Genres": [
-                "sad lo-fi",
-                "sad rap",
-                "hyper-rock"
-            ]
-        },
-        {
-            "Track Name": "Jordan",
-            "Artists": [
-                "Complete"
-            ],
-            "Genres": [
-                "australian underground hip hop",
-                "west australian hip hop"
-            ]
-        },
-        {
-            "Track Name": "Dial Drunk",
-            "Artists": [
-                "Noah Kahan"
-            ],
-            "Genres": [
-                "pov: indie",
                 "singer-songwriter pop"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273899b1cd0e561c9c7939ff1db"
         },
         {
-            "Track Name": "You\u2019re Gonna Go Far",
+            "Track Name": "Orange Afternoon",
             "Artists": [
-                "Noah Kahan"
+                "The Astronomers"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b2730a47f445f65c24c301a82de3"
+        },
+        {
+            "Track Name": "The Sidewalk Was the Shore",
+            "Artists": [
+                "Gabe Quinn"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b2730c3221997ce233bc9cf6e7b6"
+        },
+        {
+            "Track Name": "NUMB",
+            "Artists": [
+                "Heroe"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273c8d08878edc42a01c4a3e5c5"
+        },
+        {
+            "Track Name": "Another Second",
+            "Artists": [
+                "Late Night Thoughts"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b27358b1ee4d950253c9a7e0c6fd"
+        },
+        {
+            "Track Name": "My Skin",
+            "Artists": [
+                "Hazlett"
             ],
             "Genres": [
-                "pov: indie",
-                "singer-songwriter pop"
-            ]
+                "brisbane indie",
+                "modern indie folk"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273c047ba63a0777d1d77b8170f"
         },
         {
-            "Track Name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
+            "Track Name": "Captured",
             "Artists": [
-                "$uicideboy$"
+                "Vincent Lima"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273920c249a9aefd6a5e4341f0b"
+        },
+        {
+            "Track Name": "Bad Dreams",
+            "Artists": [
+                "Miles Hardt"
+            ],
+            "Genres": [
+                "la pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b2734e93ca57a76222fc21106eaa"
+        },
+        {
+            "Track Name": "I duckinf hatw you",
+            "Artists": [
+                "Ghostemane",
+                "Parv0"
             ],
             "Genres": [
                 "cloud rap",
                 "dark trap",
-                "new orleans rap",
-                "underground hip hop"
-            ]
+                "florida rap",
+                "cloud rap"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b2735abcea911bfb4b25200f770f"
+        },
+        {
+            "Track Name": "Old Salt",
+            "Artists": [
+                "Hazlett"
+            ],
+            "Genres": [
+                "brisbane indie",
+                "modern indie folk"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273134427544521ea8419626c7e"
+        },
+        {
+            "Track Name": "Tears",
+            "Artists": [
+                "Nolen Durham"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273e63b6df439ddb15913095cd4"
+        },
+        {
+            "Track Name": "Phenomenal",
+            "Artists": [
+                "Rationale"
+            ],
+            "Genres": [
+                "uk contemporary r&b"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273da878141ba93234574e90e5b"
+        },
+        {
+            "Track Name": "KID AGAIN",
+            "Artists": [
+                "Jon Bellion"
+            ],
+            "Genres": [
+                "indie pop rap"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b27392678e322802ff0b532b4af5"
+        },
+        {
+            "Track Name": "All Your Lies",
+            "Artists": [
+                "Dean Lewis"
+            ],
+            "Genres": [
+                "australian pop",
+                "pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273288ccd8c83f0f0ff33a2bc13"
+        },
+        {
+            "Track Name": "Sing Like Madonna",
+            "Artists": [
+                "Sebastian Schub"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273536edba2a509fe3ec68b4c1a"
+        },
+        {
+            "Track Name": "Forgot Your Roots",
+            "Artists": [
+                "Buffalo Traffic Jam"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273ab3ce8421b24ed2955d45fab"
+        },
+        {
+            "Track Name": "Falling Apart",
+            "Artists": [
+                "Michael Schulte"
+            ],
+            "Genres": [
+                "german pop",
+                "talentschau"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273ab43ce4feed57aa8ada5e148"
+        },
+        {
+            "Track Name": "She Calls Me Back",
+            "Artists": [
+                "Noah Kahan"
+            ],
+            "Genres": [
+                "pov: indie",
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b27365a472d8326d4571bf725422"
+        },
+        {
+            "Track Name": "God's Failed Experiment",
+            "Artists": [
+                "Kill Dyll",
+                "Warlord Colossus"
+            ],
+            "Genres": [
+                "dark trap"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b2739844b4f818db1123a7580e83"
+        },
+        {
+            "Track Name": "Tripping on Shrooms Barefoot in the Forrest As I No Longer Fear Death",
+            "Artists": [
+                "Warlord Colossus"
+            ],
+            "Genres": [
+                "dark trap"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273ed356540ef0e559735a5b87a"
+        },
+        {
+            "Track Name": "Bone Fever",
+            "Artists": [
+                "Warlord Colossus"
+            ],
+            "Genres": [
+                "dark trap"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b2734e21177e0df2c269679d401e"
+        },
+        {
+            "Track Name": "Time Zones",
+            "Artists": [
+                "Surfaces"
+            ],
+            "Genres": [
+                "bedroom soul"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273b996bbd7662c1b8bd012fe52"
+        },
+        {
+            "Track Name": "Trip on a Spiderweb",
+            "Artists": [
+                "Witchouse 40k"
+            ],
+            "Genres": [
+                "dark trap"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273d849bb508612f1d9a5f876a6"
+        },
+        {
+            "Track Name": "Sailor Song",
+            "Artists": [
+                "Gigi Perez"
+            ],
+            "Genres": [
+                "bedroom pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273e6065f209e0a01986206bd53"
+        },
+        {
+            "Track Name": "There It Goes",
+            "Artists": [
+                "Maisie Peters"
+            ],
+            "Genres": [
+                "alt z",
+                "uk pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273ca69bf6c658aa5fd60778c10"
+        },
+        {
+            "Track Name": "Another Love",
+            "Artists": [
+                "Tom Odell"
+            ],
+            "Genres": [
+                "chill pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f"
+        },
+        {
+            "Track Name": "CRAWL.",
+            "Artists": [
+                "Kill Dyll",
+                "Gashum"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b2735626417738f1d54fa386615b"
+        },
+        {
+            "Track Name": "Starving for a Cure",
+            "Artists": [
+                "Barney O'Driscoll"
+            ],
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273a2fa4e18cb8e9f380c7aa118"
+        },
+        {
+            "Track Name": "BLAME IT ON GOD",
+            "Artists": [
+                "Cam Steady",
+                "Shwabadi"
+            ],
+            "Genres": [
+                "anime rap",
+                "anime rap"
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273813eeb53b14fe81ea615fbe2"
         },
         {
             "Track Name": "Sunrise",
@@ -274,210 +484,38 @@
             ],
             "Genres": [
                 "irish singer-songwriter"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab67616d0000b273fe487bad5c5d1e60a227fbf1"
         },
         {
-            "Track Name": "Backseat",
+            "Track Name": "Paranoid Playas",
             "Artists": [
-                "Sik World"
+                "KXLLYXU"
             ],
             "Genres": [
-                "rap"
-            ]
-        },
-        {
-            "Track Name": "Run Away to Mars",
-            "Artists": [
-                "TALK"
+                "drift phonk"
             ],
-            "Genres": [
-                "singer-songwriter pop"
-            ]
+            "Image": "https://i.scdn.co/image/ab67616d0000b273e896c941a8a6998e93255481"
         },
         {
-            "Track Name": "Half Life",
+            "Track Name": "Montana",
             "Artists": [
-                "Livingston"
+                "Chance Pe\u00f1a"
             ],
             "Genres": [
                 "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "CRY",
-            "Artists": [
-                "Parker Jack"
             ],
-            "Genres": []
+            "Image": "https://i.scdn.co/image/ab67616d0000b27303c4d51d1ea3475ebf91959a"
         },
         {
-            "Track Name": "Butterflies",
+            "Track Name": "Solo",
             "Artists": [
-                "Fiji Blue"
+                "Myles Smith"
             ],
             "Genres": [
-                "chill pop",
-                "chill r&b"
-            ]
-        },
-        {
-            "Track Name": "Space Makes Me Sad",
-            "Artists": [
-                "Fiji Blue"
-            ],
-            "Genres": [
-                "chill pop",
-                "chill r&b"
-            ]
-        },
-        {
-            "Track Name": "Everything's Alright",
-            "Artists": [
-                "conscience"
-            ],
-            "Genres": []
-        },
-        {
-            "Track Name": "Just Hold On",
-            "Artists": [
-                "Presence"
-            ],
-            "Genres": [
-                "sad rap"
-            ]
-        },
-        {
-            "Track Name": "Scared To Start",
-            "Artists": [
-                "Michael Marcagi"
-            ],
-            "Genres": []
-        },
-        {
-            "Track Name": "Changes",
-            "Artists": [
-                "Hayd"
-            ],
-            "Genres": [
-                "gen z singer-songwriter"
-            ]
-        },
-        {
-            "Track Name": "All Alone",
-            "Artists": [
-                "Solace"
-            ],
-            "Genres": [
-                "lo-fi chill",
-                "sad lo-fi"
-            ]
-        },
-        {
-            "Track Name": "Pain Changes People",
-            "Artists": [
-                "Ollie"
-            ],
-            "Genres": [
-                "indie pop rap",
-                "sad rap"
-            ]
-        },
-        {
-            "Track Name": "Skin and Bones",
-            "Artists": [
-                "David Kushner"
-            ],
-            "Genres": [
-                "gen z singer-songwriter",
                 "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "Losing Sleep",
-            "Artists": [
-                "Rationale"
             ],
-            "Genres": [
-                "uk contemporary r&b"
-            ]
-        },
-        {
-            "Track Name": "The Other Side",
-            "Artists": [
-                "Presence"
-            ],
-            "Genres": [
-                "sad rap"
-            ]
-        },
-        {
-            "Track Name": "Caution and Ease",
-            "Artists": [
-                "Papithbk"
-            ],
-            "Genres": [
-                "australian trap",
-                "sad lo-fi",
-                "sad rap"
-            ]
-        },
-        {
-            "Track Name": "MOTTO",
-            "Artists": [
-                "NF"
-            ],
-            "Genres": [
-                "hip hop",
-                "pop rap"
-            ]
-        },
-        {
-            "Track Name": "Without You",
-            "Artists": [
-                "Ollie"
-            ],
-            "Genres": [
-                "indie pop rap",
-                "sad rap"
-            ]
-        },
-        {
-            "Track Name": "Forever",
-            "Artists": [
-                "Noah Kahan"
-            ],
-            "Genres": [
-                "pov: indie",
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "Paul Revere",
-            "Artists": [
-                "Noah Kahan"
-            ],
-            "Genres": [
-                "pov: indie",
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Track Name": "hideous",
-            "Artists": [
-                "mehro"
-            ],
-            "Genres": [
-                "gen z singer-songwriter"
-            ]
-        },
-        {
-            "Track Name": "About You",
-            "Artists": [
-                "Sik World"
-            ],
-            "Genres": [
-                "rap"
-            ]
+            "Image": "https://i.scdn.co/image/ab67616d0000b2735794dbc9f4b49c6c0264cea2"
         }
     ],
     "Top Artists": [
@@ -486,269 +524,82 @@
             "Genres": [
                 "pov: indie",
                 "singer-songwriter pop"
-            ]
-        },
-        {
-            "Artist Name": "Sleeping At Last",
-            "Genres": [
-                "acoustic pop",
-                "ambient worship",
-                "chamber pop"
-            ]
-        },
-        {
-            "Artist Name": "NF",
-            "Genres": [
-                "hip hop",
-                "pop rap"
-            ]
-        },
-        {
-            "Artist Name": "$uicideboy$",
-            "Genres": [
-                "cloud rap",
-                "dark trap",
-                "new orleans rap",
-                "underground hip hop"
-            ]
-        },
-        {
-            "Artist Name": "Surfaces",
-            "Genres": [
-                "bedroom soul"
-            ]
-        },
-        {
-            "Artist Name": "Fiji Blue",
-            "Genres": [
-                "chill pop",
-                "chill r&b"
-            ]
-        },
-        {
-            "Artist Name": "Anson Seabra",
-            "Genres": [
-                "alt z",
-                "gen z singer-songwriter"
-            ]
-        },
-        {
-            "Artist Name": "gavn!",
-            "Genres": [
-                "sad rap",
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Artist Name": "Presence",
-            "Genres": [
-                "sad rap"
-            ]
-        },
-        {
-            "Artist Name": "Chance Pe\u00f1a",
-            "Genres": [
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Artist Name": "Connor Price",
-            "Genres": [
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Artist Name": "Jonah Kagen",
-            "Genres": [
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Artist Name": "Alec Benjamin",
-            "Genres": [
-                "alt z",
-                "pop",
-                "pov: indie"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb8c52b10e110f62fe45761590"
         },
         {
             "Artist Name": "Hazlett",
             "Genres": [
                 "brisbane indie",
                 "modern indie folk"
-            ]
-        },
-        {
-            "Artist Name": "SadBoyProlific",
-            "Genres": [
-                "sad lo-fi",
-                "sad rap"
-            ]
-        },
-        {
-            "Artist Name": "Camylio",
-            "Genres": [
-                "gen z singer-songwriter"
-            ]
-        },
-        {
-            "Artist Name": "Twenty One Pilots",
-            "Genres": [
-                "modern rock",
-                "pop",
-                "pov: indie",
-                "rock"
-            ]
-        },
-        {
-            "Artist Name": "Parker Jack",
-            "Genres": []
-        },
-        {
-            "Artist Name": "Hayd",
-            "Genres": [
-                "gen z singer-songwriter"
-            ]
-        },
-        {
-            "Artist Name": "Jon Bellion",
-            "Genres": [
-                "indie pop rap"
-            ]
-        },
-        {
-            "Artist Name": "Darren Kiely",
-            "Genres": [
-                "irish singer-songwriter"
-            ]
-        },
-        {
-            "Artist Name": "Yung Gravy",
-            "Genres": [
-                "meme rap",
-                "minnesota hip hop"
-            ]
-        },
-        {
-            "Artist Name": "GRAHAM",
-            "Genres": [
-                "singer-songwriter pop"
-            ]
-        },
-        {
-            "Artist Name": "Papithbk",
-            "Genres": [
-                "australian trap",
-                "sad lo-fi",
-                "sad rap"
-            ]
-        },
-        {
-            "Artist Name": "Azure",
-            "Genres": []
-        },
-        {
-            "Artist Name": "Dermot Kennedy",
-            "Genres": [
-                "folk-pop",
-                "irish pop",
-                "uk pop"
-            ]
-        },
-        {
-            "Artist Name": "Novo Amor",
-            "Genres": [
-                "ambient folk",
-                "indie folk"
-            ]
-        },
-        {
-            "Artist Name": "Sik World",
-            "Genres": [
-                "rap"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebd0974306d48c481667337b28"
         },
         {
             "Artist Name": "Warlord Colossus",
             "Genres": [
                 "dark trap"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb87888e8fc6502b503e01a150"
         },
         {
-            "Artist Name": "BONES",
-            "Genres": [
-                "cloud rap",
-                "dark trap"
-            ]
+            "Artist Name": "Kill Dyll",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb83e10e6d44f0ac5da825d1de"
         },
         {
-            "Artist Name": "Livingston",
+            "Artist Name": "Jon Bellion",
             "Genres": [
-                "singer-songwriter pop"
-            ]
+                "indie pop rap"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebfbe80f5b4abe83a467bd2e5f"
         },
         {
-            "Artist Name": "HAARPER",
+            "Artist Name": "SXMPRA",
             "Genres": [
-                "dark trap",
-                "drift phonk",
-                "game mood"
-            ]
+                "drift phonk"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb9912f20fd48560a1a193c643"
         },
         {
-            "Artist Name": "Abe Parker",
+            "Artist Name": "Sam Barber",
             "Genres": [
-                "singer-songwriter pop"
-            ]
+                "modern country pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebae73620ee0af55ed826a9db3"
         },
         {
-            "Artist Name": "David Kushner",
-            "Genres": [
-                "gen z singer-songwriter",
-                "singer-songwriter pop"
-            ]
+            "Artist Name": "Pranav.Wav",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb56705f277a90e2210504d7a7"
         },
         {
-            "Artist Name": "sorrow",
+            "Artist Name": "Dean Lewis",
             "Genres": [
-                "lo-fi chill",
-                "sad lo-fi",
-                "sad rap"
-            ]
+                "australian pop",
+                "pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb43a00ea7cb7be891ba310978"
         },
         {
             "Artist Name": "Vincent Lima",
-            "Genres": []
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb0c6c8dd8ed1c61da165e6913"
         },
         {
-            "Artist Name": "Nic D",
+            "Artist Name": "Surfaces",
             "Genres": [
-                "singer-songwriter pop"
-            ]
+                "bedroom soul"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebcfdf34f73285254900911485"
         },
         {
-            "Artist Name": "Promoting Sounds",
+            "Artist Name": "Scarlxrd",
             "Genres": [
-                "lo-fi chill",
-                "sad lo-fi"
-            ]
-        },
-        {
-            "Artist Name": "Bleed The Wicked Menace",
-            "Genres": []
-        },
-        {
-            "Artist Name": "Chelsea Cutler",
-            "Genres": [
-                "alt z"
-            ]
-        },
-        {
-            "Artist Name": "Ollie",
-            "Genres": [
-                "indie pop rap",
-                "sad rap"
-            ]
+                "dark trap",
+                "scream rap"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb0a6c720d9b2673cb8296fa28"
         },
         {
             "Artist Name": "Ghostemane",
@@ -756,102 +607,296 @@
                 "cloud rap",
                 "dark trap",
                 "florida rap"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb05fe4ce6473b6f00ad5aca73"
         },
         {
-            "Artist Name": "Forrest.",
+            "Artist Name": "Rationale",
             "Genres": [
-                "lo-fi rap"
-            ]
+                "uk contemporary r&b"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb5c9475fa4a0d8211985c80f2"
+        },
+        {
+            "Artist Name": "Chance Pe\u00f1a",
+            "Genres": [
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb1ffe66cd46524d07ee8a8622"
+        },
+        {
+            "Artist Name": "Livingston",
+            "Genres": [
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebebbb454818381f7e06306070"
+        },
+        {
+            "Artist Name": "Mon Rov\u00eea",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb618d61e164b4caffbd799489"
+        },
+        {
+            "Artist Name": "Darren Kiely",
+            "Genres": [
+                "irish singer-songwriter"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb9e870647185970cfff4e317f"
+        },
+        {
+            "Artist Name": "Brenn!",
+            "Genres": [
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb51705dccd15dd586f8dd3816"
+        },
+        {
+            "Artist Name": "Nolen Durham",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebeab66beb74c413392bad0a0d"
+        },
+        {
+            "Artist Name": "Ethan Jewell",
+            "Genres": [
+                "gen z singer-songwriter"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb28f9bf5ec974308b6944ca69"
+        },
+        {
+            "Artist Name": "Jeremy Zucker",
+            "Genres": [
+                "alt z",
+                "electropop",
+                "pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb64df9f37d51342328bc0790c"
+        },
+        {
+            "Artist Name": "asiris",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb52740bfda163f99458fc1292"
+        },
+        {
+            "Artist Name": "Zach Hood",
+            "Genres": [
+                "alt z",
+                "gen z singer-songwriter",
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebebe91002d8237dd922969e7b"
+        },
+        {
+            "Artist Name": "Myles Smith",
+            "Genres": [
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebb770aab80045c57b562b2de2"
+        },
+        {
+            "Artist Name": "Ike Dweck",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebcabaf8aee9ee58b66e6547b8"
+        },
+        {
+            "Artist Name": "Kilu",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb56083e7862c85b03042503d4"
+        },
+        {
+            "Artist Name": "Fionn Regan",
+            "Genres": [
+                "irish pop",
+                "irish singer-songwriter"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb53a37549e57023347857f785"
+        },
+        {
+            "Artist Name": "NEFFEX",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb83a6dd3444d8a133e48486a0"
+        },
+        {
+            "Artist Name": "Jonah Kagen",
+            "Genres": [
+                "singer-songwriter pop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebcef948190ae9d6817e8a8b90"
+        },
+        {
+            "Artist Name": "C418",
+            "Genres": [
+                "pixel",
+                "video game music"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eba9b8234e3071836212561d19"
+        },
+        {
+            "Artist Name": "Sean Noah Murray",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebda4f36a4507b3e07ca8a958e"
+        },
+        {
+            "Artist Name": "Sik World",
+            "Genres": [
+                "rap"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb42178ea0fe78f5e6136caf67"
+        },
+        {
+            "Artist Name": "Officialdjaaron",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eba9f75b2ce9d393062dff6e3f"
+        },
+        {
+            "Artist Name": "Hollow Coves",
+            "Genres": [
+                "indie anthem-folk",
+                "indie folk",
+                "modern indie folk"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb81c0e43195b10b16081a5fc4"
+        },
+        {
+            "Artist Name": "Richy Mitch & The Coal Miners",
+            "Genres": [
+                "modern folk rock"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb5b88a47617ca094df91b961b"
+        },
+        {
+            "Artist Name": "Faceless 1-7",
+            "Genres": [
+                "dark trap"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebb6835f01cfaf536b16e5c635"
+        },
+        {
+            "Artist Name": "Ben Kessler",
+            "Genres": [
+                "gen z singer-songwriter"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb3938887636226db8985602c9"
+        },
+        {
+            "Artist Name": "Lord Huron",
+            "Genres": [
+                "indie folk",
+                "stomp and holler"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10"
+        },
+        {
+            "Artist Name": "Them & I",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb24223da91ead687f09b0ea2a"
+        },
+        {
+            "Artist Name": "buffalo_farm",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eba30294b36b1caef96368f996"
+        },
+        {
+            "Artist Name": "Kordhell",
+            "Genres": [
+                "drift phonk"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb2cf946cd6eb7d0e70bb6de8d"
+        },
+        {
+            "Artist Name": "Parker Jack",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb9827ed08508380eedb36b528"
+        },
+        {
+            "Artist Name": "HAFFWAY",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb4f4197c84c09285569a89609"
         },
         {
             "Artist Name": "Matt Hansen",
             "Genres": [
                 "gen z singer-songwriter",
                 "singer-songwriter pop"
-            ]
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb05b438a36915d1c619dd1e13"
         },
         {
-            "Artist Name": "Dean Lewis",
+            "Artist Name": "rosarummet",
             "Genres": [
-                "australian pop",
-                "pop"
-            ]
+                "lo-fi beats",
+                "lo-fi cover"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebc8934d3e370db66d0afa5aa5"
         },
         {
-            "Artist Name": "Hozier",
+            "Artist Name": "Hans Williams",
+            "Genres": [],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eba58baad9fdd09c584b7c7563"
+        },
+        {
+            "Artist Name": "Miro Mas",
             "Genres": [
-                "irish singer-songwriter",
-                "modern rock",
-                "pop",
-                "pov: indie"
-            ]
+                "lo-fi cover"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eb0f92aeaf9237068f2f74ed62"
         },
         {
-            "Artist Name": "Zach Bryan",
+            "Artist Name": "Gaslamp",
             "Genres": [
-                "classic oklahoma country"
-            ]
+                "lo-fi jazzhop"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5eba1d728397b1f4c23dbbb3d97"
         },
         {
-            "Artist Name": "Miles Hardt",
+            "Artist Name": "Presence",
             "Genres": [
-                "la pop"
-            ]
-        },
-        {
-            "Artist Name": "Shaya Zamora",
-            "Genres": []
-        },
-        {
-            "Artist Name": "Jared Benjamin",
-            "Genres": [
-                "singer-songwriter pop"
-            ]
+                "sad rap"
+            ],
+            "Image": "https://i.scdn.co/image/ab6761610000e5ebe3167bb88607026a13933a45"
         }
     ],
     "Top Genres": [
         "singer-songwriter pop",
-        "pov: indie",
-        "sad rap",
-        "sad lo-fi",
-        "gen z singer-songwriter",
-        "pop",
         "dark trap",
-        "hip hop",
-        "pop rap",
-        "irish singer-songwriter",
-        "chill pop",
-        "chill r&b",
-        "lo-fi chill",
+        "pov: indie",
+        "pop",
+        "modern indie folk",
+        "gen z singer-songwriter",
         "cloud rap",
-        "indie pop rap",
-        "modern rock",
-        "rap",
-        "alt z",
+        "irish singer-songwriter",
         "brisbane indie",
-        "modern indie folk"
+        "sad rap",
+        "australian pop",
+        "alt z",
+        "drift phonk",
+        "electropop",
+        "modern country pop",
+        "florida rap",
+        "uk contemporary r&b",
+        "indie pop rap",
+        "bedroom soul",
+        "anime rap"
     ],
     "Genre Vector": [
-        0.6741578287425452,
-        0.39950093555113786,
-        0.39950093555113786,
-        0.19975046777556893,
-        0.19975046777556893,
-        0.1498128508316767,
-        0.1498128508316767,
-        0.09987523388778446,
-        0.09987523388778446,
-        0.09987523388778446,
-        0.09987523388778446,
-        0.09987523388778446,
-        0.09987523388778446,
-        0.09987523388778446,
-        0.09987523388778446,
-        0.07490642541583835,
-        0.07490642541583835,
-        0.07490642541583835,
-        0.04993761694389223,
-        0.04993761694389223
+        0.7245235560022184,
+        0.3622617780011092,
+        0.28980942240088736,
+        0.21735706680066555,
+        0.1811308890005546,
+        0.1811308890005546,
+        0.14490471120044368,
+        0.14490471120044368,
+        0.14490471120044368,
+        0.10867853340033277,
+        0.10867853340033277,
+        0.10867853340033277,
+        0.10867853340033277,
+        0.07245235560022184,
+        0.07245235560022184,
+        0.07245235560022184,
+        0.07245235560022184,
+        0.07245235560022184,
+        0.07245235560022184,
+        0.07245235560022184
     ]
 }

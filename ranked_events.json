@@ -1,275 +1,8 @@
 [
     {
-        "Event Name": "David Kushner",
-        "Artists": [
-            "David Kushner",
-            "Henrik",
-            "Henrik"
-        ],
-        "Genres": [
-            "Rock",
-            "Pop"
-        ],
-        "Date": "2024-11-09",
-        "Location": "Houston, Texas",
-        "Address": "520 Texas Ave.",
-        "Distance": 0.27,
-        "Similarity Score": 0.9982828282828283
-    },
-    {
-        "Event Name": "Livingston - A Hometown Odyssey Tour - Part 2",
-        "Artists": [
-            "Livingston",
-            "Camylio",
-            "Camylio"
-        ],
-        "Genres": [
-            "Rock",
-            "Alternative Rock"
-        ],
-        "Date": "2024-11-24",
-        "Location": "Houston, Texas",
-        "Address": "2915 N Main St",
-        "Distance": 1.89,
-        "Similarity Score": 0.981919191919192
-    },
-    {
-        "Event Name": "OMD",
-        "Artists": [
-            "OMD"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-06-02",
-        "Location": "Houston, Texas",
-        "Address": "520 Texas Ave.",
-        "Distance": 0.27,
-        "Similarity Score": 0.44767407828282835
-    },
-    {
-        "Event Name": "Will Wood - Slouching Towards Bethlehem! Tour",
-        "Artists": [
-            "Will Wood"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2024-11-22",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.41,
-        "Similarity Score": 0.4462599368686869
-    },
-    {
-        "Event Name": "Leanna Firestone",
-        "Artists": [
-            "Leanna Firestone",
-            "Sundial",
-            "Sundial"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2024-11-16",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.41,
-        "Similarity Score": 0.4462599368686869
-    },
-    {
-        "Event Name": "Natalie Jane",
-        "Artists": [
-            "Natalie Jane"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-02-12",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.41,
-        "Similarity Score": 0.4462599368686869
-    },
-    {
-        "Event Name": "Gusi - Solo Tuyo 2024 USA Tour",
-        "Artists": [
-            "Gusi"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-04-09",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.41,
-        "Similarity Score": 0.4462599368686869
-    },
-    {
-        "Event Name": "Role Model with Special Guest Debbii Dawson",
-        "Artists": [
-            "ROLE MODEL",
-            "Debbii Dawson",
-            "Debbii Dawson"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-02-28",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.43,
-        "Similarity Score": 0.4460579166666667
-    },
-    {
-        "Event Name": "Club Chris Tour With Chris Olsen & Ryan Trainor",
-        "Artists": [
-            "Chris Olsen",
-            "Ryan Trainor",
-            "Ryan Trainor"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-03-27",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.43,
-        "Similarity Score": 0.4460579166666667
-    },
-    {
-        "Event Name": "dhruv",
-        "Artists": [
-            "dhruv"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-02-08",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.43,
-        "Similarity Score": 0.4460579166666667
-    },
-    {
-        "Event Name": "ASIM AZHAR x AUR: The World Tour 2025",
-        "Artists": [
-            "Asim Azhar",
-            "AUR",
-            "AUR"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-02-05",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.43,
-        "Similarity Score": 0.4460579166666667
-    },
-    {
-        "Event Name": "Club 90's - Glee Night",
-        "Artists": [
-            "Glee Night"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2024-11-30",
-        "Location": "Houston, Texas",
-        "Address": "1204 Caroline Street",
-        "Distance": 0.43,
-        "Similarity Score": 0.4460579166666667
-    },
-    {
-        "Event Name": "Teddy Swims - I've Tried Everything But Therapy Tour",
-        "Artists": [
-            "Teddy Swims"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-08-09",
-        "Location": "Houston, Texas",
-        "Address": "401 Franklin Street",
-        "Distance": 0.49,
-        "Similarity Score": 0.4454518560606061
-    },
-    {
-        "Event Name": "Kany Garc\u00eda: Garc\u00eda Tour 2024",
-        "Artists": [
-            "Kany Garcia"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2024-11-07",
-        "Location": "Houston, Texas",
-        "Address": "401 Franklin Street",
-        "Distance": 0.49,
-        "Similarity Score": 0.4454518560606061
-    },
-    {
-        "Event Name": "Shakira - Las Mujeres Ya No Lloran - World Tour",
-        "Artists": [
-            "Shakira"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-06-15",
-        "Location": "Houston, Texas",
-        "Address": "1510 Polk Street",
-        "Distance": 0.58,
-        "Similarity Score": 0.4445427651515152
-    },
-    {
-        "Event Name": "Fontaines D.C. USA TOUR 2025",
-        "Artists": [
-            "Fontaines D.C."
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-04-25",
-        "Location": "Houston, Texas",
-        "Address": "2915 N Main St",
-        "Distance": 1.89,
-        "Similarity Score": 0.431310441919192
-    },
-    {
-        "Event Name": "Good Kid: Chaos Kid Tour w/ Phoneboy",
-        "Artists": [
-            "Good Kid",
-            "Phoneboy",
-            "Phoneboy"
-        ],
-        "Genres": [
-            "Pop",
-            "Pop"
-        ],
-        "Date": "2025-03-01",
-        "Location": "Houston, Texas",
-        "Address": "2915 N Main St",
-        "Distance": 1.89,
-        "Similarity Score": 0.431310441919192
-    },
-    {
-        "Event Name": "hannah bahng: The Abysmal Tour",
+        "Name": "hannah bahng: The Abysmal Tour",
+        "ID": "vvG1YZb47-DAHP",
+        "Image": "https://s1.ticketm.net/dam/a/d61/4198670b-92f8-466e-ad67-459e1bf1fd61_SOURCE",
         "Artists": [
             "hannah bahng"
         ],
@@ -277,42 +10,587 @@
             "Pop",
             "Pop"
         ],
-        "Date": "2024-12-03",
-        "Location": "Houston, Texas",
-        "Address": "2915 N Main St,",
-        "Distance": 1.89,
-        "Similarity Score": 0.431310441919192
+        "Date": "Dec 2",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2200 N Lamar St",
+        "Distance": 0.9,
+        "Similarity Score": 0.468096691919192
     },
     {
-        "Event Name": "bixby - Desire Tour",
+        "Name": "Marc Broussard",
+        "ID": "Z7r9jZ1A7a70x",
+        "Image": "https://s1.ticketm.net/dam/a/2e9/bd517c3f-04f9-4cc3-8c70-95e72d57d2e9_SOURCE",
         "Artists": [
-            "bixby",
-            "Joon",
-            "Joon"
+            "Marc Broussard"
         ],
         "Genres": [
             "Pop",
-            "Pop"
+            "Adult Contemporary"
         ],
-        "Date": "2024-11-09",
-        "Location": "Houston, Texas",
-        "Address": "2915 N Main St,",
-        "Distance": 1.89,
-        "Similarity Score": 0.431310441919192
+        "Date": "Dec 6",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "216 Corinth St",
+        "Distance": 1.6,
+        "Similarity Score": 0.41163285984848474
     },
     {
-        "Event Name": "Homeshake with Green-House",
+        "Name": "KXT 91.7 Presents: Ben Folds: Paper Airplane Request Tour",
+        "ID": "vvG1YZbarhWw7Q",
+        "Image": "https://s1.ticketm.net/dam/a/1f7/3f28824e-bdaf-4a12-9329-5b60f311c1f7_SOURCE",
         "Artists": [
-            "Homeshake"
+            "Ben Folds",
+            "Lindsey Kraft",
+            "Lindsey Kraft"
         ],
         "Genres": [
-            "Pop",
+            "Rock",
             "Pop"
         ],
-        "Date": "2024-11-15",
-        "Location": "Houston, Texas",
-        "Address": "2915 N Main St",
-        "Distance": 1.89,
-        "Similarity Score": 0.431310441919192
+        "Date": "Dec 12",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "1925 Elm Street",
+        "Distance": 0.42,
+        "Similarity Score": 0.4056476767676768
+    },
+    {
+        "Name": "THE GHOST INSIDE \"SEARCHING FOR SOLACE TOUR\"",
+        "ID": "vvG1YZbCCTEeMY",
+        "Image": "https://s1.ticketm.net/dam/a/d38/edf3761b-9ab5-45fe-9d94-df7054e01d38_SOURCE",
+        "Artists": [
+            "The Ghost Inside",
+            "Void of Vision",
+            "Of Virtue",
+            "Gideon",
+            "Void of Vision",
+            "Of Virtue",
+            "Gideon"
+        ],
+        "Genres": [
+            "Rock",
+            "Pop"
+        ],
+        "Date": "Dec 8",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2200 N Lamar St",
+        "Distance": 0.92,
+        "Similarity Score": 0.4005971717171718
+    },
+    {
+        "Name": "Justin Timberlake - The Forget Tomorrow World Tour",
+        "ID": "vvG1YZb7reb-m_",
+        "Image": "https://s1.ticketm.net/dam/a/2b7/f60bbb40-aaaf-4e18-8bfe-c8f3585302b7_SOURCE",
+        "Artists": [
+            "Justin Timberlake"
+        ],
+        "Genres": [
+            "Rock",
+            "Pop"
+        ],
+        "Date": "Dec 6",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2500 Victory Avenue",
+        "Distance": 1.28,
+        "Similarity Score": 0.39696080808080814
+    },
+    {
+        "Name": "Madison Ryann Ward",
+        "ID": "Z7r9jZ1A7o8p7",
+        "Image": "https://s1.ticketm.net/dam/a/ff6/ca1b3178-ef94-47f8-a816-8d8d97eb0ff6_SOURCE",
+        "Artists": [
+            "Madison Ryann Ward"
+        ],
+        "Genres": [
+            "Rock",
+            "Pop"
+        ],
+        "Date": "Dec 3",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2727 Canton Street, Dallas, TX 75226",
+        "Distance": 1.3,
+        "Similarity Score": 0.39675878787878793
+    },
+    {
+        "Name": "Aaron Watson",
+        "ID": "Z7r9jZ1A7ovfA",
+        "Image": "https://s1.ticketm.net/dam/a/46d/66105b8a-da3a-485e-a13c-61a6f5fc346d_SOURCE",
+        "Artists": [
+            "Aaron Watson"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 5",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "1925 Elm St.",
+        "Distance": 0.78,
+        "Similarity Score": 0.3672938131313131
+    },
+    {
+        "Name": "Amigo the Devil",
+        "ID": "Z7r9jZ1A7uZJo",
+        "Image": "https://s1.ticketm.net/dam/a/877/dd6b1e92-74ff-40f5-9966-44a83c2b3877_SOURCE",
+        "Artists": [
+            "Amigo The Devil"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 6",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2707 Elm St.",
+        "Distance": 1.3,
+        "Similarity Score": 0.36204128787878787
+    },
+    {
+        "Name": "Ride",
+        "ID": "Z7r9jZ1A7aOaf",
+        "Image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "Artists": [
+            "Ride"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 13",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2727 Canton Street, Dallas, TX 75226",
+        "Distance": 1.3,
+        "Similarity Score": 0.36204128787878787
+    },
+    {
+        "Name": "Wooli",
+        "ID": "Z7r9jZ1A7uUPe",
+        "Image": "https://s1.ticketm.net/dam/a/201/2609b168-eee8-40d8-8f87-22fc2c763201_SOURCE",
+        "Artists": [
+            "Wooli"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Nov 30",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2713 Canton Street",
+        "Distance": 1.3,
+        "Similarity Score": 0.36204128787878787
+    },
+    {
+        "Name": "King Diamond w/ Myrkur",
+        "ID": "Z7r9jZ1A7usr6",
+        "Image": "https://s1.ticketm.net/dam/a/bd3/807bdd72-eaed-4b65-8d17-352a5eeecbd3_SOURCE",
+        "Artists": [
+            "King Diamond",
+            "Myrkur",
+            "Overkill",
+            "Night Demon",
+            "Myrkur",
+            "Overkill",
+            "Night Demon"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 6",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2713 Canton Street",
+        "Distance": 1.3,
+        "Similarity Score": 0.36204128787878787
+    },
+    {
+        "Name": "Ax and the Hatchetmen",
+        "ID": "Z7r9jZ1A7C_ep",
+        "Image": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+        "Artists": [
+            "Ax and the Hatchetmen"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 12",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "3200 Commerce St",
+        "Distance": 1.3,
+        "Similarity Score": 0.36204128787878787
+    },
+    {
+        "Name": "Mason Ramsey w/ Halle Kearns",
+        "ID": "Z7r9jZ1A7GxG9",
+        "Image": "https://s1.ticketm.net/dam/a/66d/3d5f1596-0929-4c5f-82e9-0d6e0a76566d_SOURCE",
+        "Artists": [
+            "Mason Ramsey",
+            "Halle Kearns",
+            "Halle Kearns"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 14",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2727 Canton Street, Dallas, TX 75226",
+        "Distance": 1.3,
+        "Similarity Score": 0.36204128787878787
+    },
+    {
+        "Name": "Zeal and Ardor w/ Gaerea",
+        "ID": "Z7r9jZ1A7upOF",
+        "Image": "https://s1.ticketm.net/dam/a/e4d/4d04f5c6-6a61-4090-a4d0-8f9a8b206e4d_SOURCE",
+        "Artists": [
+            "Zeal & Ardor",
+            "Gaerea",
+            "Gaerea"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 18",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2727 Canton Street, Dallas, TX 75226",
+        "Distance": 1.3,
+        "Similarity Score": 0.36204128787878787
+    },
+    {
+        "Name": "CamelPhat",
+        "ID": "Z7r9jZ1A7uk7a",
+        "Image": "https://s1.ticketm.net/dam/a/9cc/c7a7ba64-6d23-484d-a059-be34de3829cc_SOURCE",
+        "Artists": [
+            "CamelPhat"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Nov 29",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "1340 Manufacturing St",
+        "Distance": 1.6,
+        "Similarity Score": 0.3590109848484848
+    },
+    {
+        "Name": "Rezz",
+        "ID": "Z7r9jZ1A7uU8V",
+        "Image": "https://s1.ticketm.net/dam/a/649/7b171476-ed29-4b21-960d-b18c90710649_SOURCE",
+        "Artists": [
+            "Rezz"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 6",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "1340 Manufacturing St",
+        "Distance": 1.6,
+        "Similarity Score": 0.3590109848484848
+    },
+    {
+        "Name": "The Wood Brothers",
+        "ID": "Z7r9jZ1A7uvbf",
+        "Image": "https://s1.ticketm.net/dam/a/0c6/92d46c1d-2033-4247-88b9-1bea807630c6_SOURCE",
+        "Artists": [
+            "The Wood Brothers"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 14",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "216 Corinth St",
+        "Distance": 1.6,
+        "Similarity Score": 0.3590109848484848
+    },
+    {
+        "Name": "The Front Bottoms",
+        "ID": "vvG1YZbukYBw9L",
+        "Image": "https://s1.ticketm.net/dam/a/6cd/f58f8591-9022-4d55-b280-62a0adbbe6cd_SOURCE",
+        "Artists": [
+            "The Front Bottoms",
+            "Hey, Nothing",
+            "Hey, Nothing"
+        ],
+        "Genres": [
+            "Rock",
+            "Alternative Rock"
+        ],
+        "Date": "Nov 29",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2200 N Lamar St",
+        "Distance": 0.92,
+        "Similarity Score": 0.34714279671717174
+    },
+    {
+        "Name": "Robert Earl Keen",
+        "ID": "vvG1YZbf1FFsf0",
+        "Image": "https://s1.ticketm.net/dam/a/d12/4ccbce5b-9d33-43ad-9da4-d33fe89e5d12_SOURCE",
+        "Artists": [
+            "Robert Earl Keen",
+            "John R. Miller",
+            "John R. Miller"
+        ],
+        "Genres": [
+            "Country",
+            "Country"
+        ],
+        "Date": "Dec 15",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2200 N Lamar St",
+        "Distance": 0.92,
+        "Similarity Score": 0.34385217171717175
+    },
+    {
+        "Name": "BigXthaPlug: Take Care Tour",
+        "ID": "vvG1YZbCESk73a",
+        "Image": "https://s1.ticketm.net/dam/a/4ea/e27bb6ea-c6c1-42f6-b043-92c80d17b4ea_SOURCE",
+        "Artists": [
+            "BigXthaPlug",
+            "Ro$ama",
+            "Yung Hood",
+            "Ro$ama",
+            "Yung Hood"
+        ],
+        "Genres": [
+            "Hip-Hop/Rap",
+            "French Rap"
+        ],
+        "Date": "Nov 29",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "1135 Botham Jean Blvd",
+        "Distance": 0.49,
+        "Similarity Score": 0.3405287310606061
+    },
+    {
+        "Name": "Destroy Lonely: FOREVER TOUR",
+        "ID": "vvG1YZb3QERwnQ",
+        "Image": "https://s1.ticketm.net/dam/a/72e/4d1e3a96-0c7d-41ec-9218-bef9a185872e_SOURCE",
+        "Artists": [
+            "Destroy Lonely"
+        ],
+        "Genres": [
+            "Hip-Hop/Rap",
+            "French Rap"
+        ],
+        "Date": "Dec 12",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "1135 Botham Jean Blvd",
+        "Distance": 0.49,
+        "Similarity Score": 0.3405287310606061
+    },
+    {
+        "Name": "Austin Meade's MEAD-E-OAK'R Christmas Vacation",
+        "ID": "vvG1YZbpNbgSTM",
+        "Image": "https://s1.ticketm.net/dam/e/8f2/7046fcef-45f2-43b9-bdfe-998f231c98f2_SOURCE",
+        "Artists": [
+            "Treaty Oak Revival",
+            "Austin Meade",
+            "Austin Meade"
+        ],
+        "Genres": [
+            "Country",
+            "Country"
+        ],
+        "Date": "Dec 18",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "1323 N. Stemmons Fwy. ",
+        "Distance": 1.42,
+        "Similarity Score": 0.33880166666666667
+    },
+    {
+        "Name": "42 Dugg",
+        "ID": "vvG1YZb8j94ANz",
+        "Image": "https://s1.ticketm.net/dam/a/7a7/cd8b7fb6-fdec-47e7-8f1d-379b3acfc7a7_SOURCE",
+        "Artists": [
+            "42 Dugg",
+            "Chicken P",
+            "Cartier",
+            "Yungeen Ace",
+            "Audi Money",
+            "Chicken P",
+            "Cartier",
+            "Yungeen Ace",
+            "Audi Money"
+        ],
+        "Genres": [
+            "Hip-Hop/Rap",
+            "French Rap"
+        ],
+        "Date": "Dec 3",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2200 N Lamar St",
+        "Distance": 0.92,
+        "Similarity Score": 0.33618529671717173
+    },
+    {
+        "Name": "Dance With The Dead w/ Korine",
+        "ID": "Z7r9jZ1A7GSCd",
+        "Image": "https://s1.ticketm.net/dam/a/1e6/c9d6ba18-9f90-48ba-adbc-76b0bf9551e6_SOURCE",
+        "Artists": [
+            "Dance With The Dead",
+            "Korine",
+            "Korine"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 4",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "3524 Greenville Ave.",
+        "Distance": 4.06,
+        "Similarity Score": 0.3341625
+    },
+    {
+        "Name": "Animals as Leaders w/ Plini",
+        "ID": "Z7r9jZ1A7aY-J",
+        "Image": "https://s1.ticketm.net/dam/a/16d/4f583465-39ae-48a7-b158-330d6522916d_SOURCE",
+        "Artists": [
+            "Animals As Leaders",
+            "Plini",
+            "Plini"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Nov 26",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "3524 Greenville Ave.",
+        "Distance": 4.06,
+        "Similarity Score": 0.3341625
+    },
+    {
+        "Name": "The Pineapple Thief",
+        "ID": "Z7r9jZ1A7Fx7z",
+        "Image": "https://s1.ticketm.net/dam/a/19c/d7b614ab-49a4-455a-9989-e5ae28d2d19c_SOURCE",
+        "Artists": [
+            "The Pineapple Thief"
+        ],
+        "Genres": [
+            "Other",
+            "Other"
+        ],
+        "Date": "Dec 3",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "3524 Greenville Ave.",
+        "Distance": 4.06,
+        "Similarity Score": 0.3341625
+    },
+    {
+        "Name": "BABYFACE RAY: Wavy Navy University Tour",
+        "ID": "vvG1YZbKmGK0uq",
+        "Image": "https://s1.ticketm.net/dam/a/5c2/b4485740-ceb3-47b5-99d0-7851daccb5c2_SOURCE",
+        "Artists": [
+            "Babyface Ray",
+            "Babyfxce E",
+            "Samuel Shabazz",
+            "DaeMoney",
+            "Babyfxce E",
+            "Samuel Shabazz",
+            "DaeMoney"
+        ],
+        "Genres": [
+            "Hip-Hop/Rap",
+            "French Rap"
+        ],
+        "Date": "Dec 8",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "1323 N. Stemmons Fwy. ",
+        "Distance": 1.42,
+        "Similarity Score": 0.3311347916666667
+    },
+    {
+        "Name": "Better Lovers",
+        "ID": "Z7r9jZ1A7C64K",
+        "Image": "https://s1.ticketm.net/dam/a/280/6a0322a3-10fe-4e0e-b214-ed401fa48280_SOURCE",
+        "Artists": [
+            "Better Lovers"
+        ],
+        "Genres": [
+            "Rock",
+            "Rock"
+        ],
+        "Date": "Dec 4",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2727 Canton Street, Dallas, TX 75226",
+        "Distance": 1.3,
+        "Similarity Score": 0.3294612878787879
+    },
+    {
+        "Name": "W.A.S.P. w/ Death Angel",
+        "ID": "Z7r9jZ1A7GkZy",
+        "Image": "https://s1.ticketm.net/dam/a/4a2/f044bd80-ab67-4319-ad3a-3a94631394a2_SOURCE",
+        "Artists": [
+            "W.A.S.P.",
+            "Death Angel",
+            "Unto Others",
+            "Death Angel",
+            "Unto Others"
+        ],
+        "Genres": [
+            "Rock",
+            "Hard Rock"
+        ],
+        "Date": "Dec 1",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2713 Canton Street",
+        "Distance": 1.3,
+        "Similarity Score": 0.3273294128787878
+    },
+    {
+        "Name": "Haste The Day w/ Oh Sleeper",
+        "ID": "Z7r9jZ1A7CKOa",
+        "Image": "https://s1.ticketm.net/dam/a/724/a674cccf-720f-4655-876f-0a20a9f06724_SOURCE",
+        "Artists": [
+            "Haste the Day",
+            "Oh Sleeper",
+            "He Is Legend",
+            "Oh Sleeper",
+            "He Is Legend"
+        ],
+        "Genres": [
+            "Rock",
+            "Hard Rock"
+        ],
+        "Date": "Dec 15",
+        "City": "Dallas",
+        "State": "Texas",
+        "Address": "2713 Canton Street",
+        "Distance": 1.3,
+        "Similarity Score": 0.3273294128787878
     }
 ]

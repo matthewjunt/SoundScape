@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Details - SoundScape</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        h1, h2, h3 {
+            margin: 0;
+        }
+        .header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            padding: 25px 20px;
+            background-color: #333;
+            color: #fff;
+        }
+        .back-button {
+            position: absolute;
+            left: 20px;
+            font-size: 1.5em;
+            color: #fff;
+            text-decoration: none;
+            margin-right: 15px;
+        }
+        .back-button:hover {
+            color: #ddd;
+        }
+        h1 {
+            font-size: 3em;
+            flex-grow: 1;
+            text-align: center;
+        }
+        .content {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .event-image {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .event-info {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .event-info h2 {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        .event-details {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            max-width: 800px;
+            margin-bottom: 20px;
+        }
+        .event-details div {
+            margin: 5px 0;
+        }
+        .event-column {
+            flex: 1;
+            padding: 10px;
+        }
+        .genre-list {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .genre-list li {
+            background-color: #eee;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
+        .button-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .spotify-button, .ticket-button {
+            display: inline-block;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1em;
+            font-weight: bold;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
+        .ticket-button {
+            background-color: #0074d9;
+            color: #fff;
+        }
+        .ticket-button:hover {
+            background-color: #005bb5;
+        }
+        .spotify-button {
+            background-color: #1DB954; 
+            color: #fff;
+        }
+        .spotify-button:hover {
+            background-color: #1ed760; 
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <a href="javascript:history.back()" class="back-button">&larr;</a>
+        <h1>SoundScape</h1>
+    </div>
+
+    <!-- Event Content -->
+    <div class="content">
+        <img src="{{ event.image }}" alt="{{ event.name }}" class="event-image">
+
+        <!-- Event Information -->
+        <div class="event-info">
+            <h2>{{ event.name }}</h2>
+            <div class="event-details">
+                <div class="event-column">
+                    <div><strong>Venue:</strong> {{ event.venue }}</div>
+                    <div><strong>City/State:</strong> {{ event.city }}, {{ event.state }}</div>
+                </div>
+                <div class="event-column">
+                    <div><strong>Date:</strong> {{ event.date }}</div>
+                    <div><strong>Time:</strong> {{ event.time }}</div>
+                </div>
+                <div class="event-column">
+                    <div><strong>Headliners:</strong> {{ event.headliners | join(', ') }}</div>
+                    <div><strong>Supporting Acts:</strong> {{ event.supporting_acts | join(', ') }}</div>
+                </div>
+            </div>
+            <h3>Genres</h3>
+            <ul class="genre-list">
+                {% for genre in event.genres %}
+                    <li>{{ genre }}</li>
+                {% endfor %}
+            </ul>
+            <!-- Buttons -->
+            <div class="button-container">
+                <a href="spotify:artist:{{ event.spotify_id }}" target="_blank" class="spotify-button">Listen on Spotify</a>
+                <a href="{{ event.tickets }}" target="_blank" class="ticket-button">Get Tickets</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

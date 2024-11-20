@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SoundScape</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+        }
+        h1, h2, h3 {
+            margin: 0;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            padding: 25px 20px;
+            background-color: #333;
+            color: #fff;
+        }
+        h1 {
+            font-size: 3em;
+            flex-grow: 1;
+            text-align: center;
+        }
+        h2 {
+            font-size: 2em;
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .search-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px; 
+            padding: 60px;
+            flex-wrap: wrap;
+            margin-top: 0;
+            margin-bottom: 50px;
+            background-color: #999;
+        }
+        .search-section form {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .search-section input, 
+        .search-section select, 
+        .search-section button, 
+        .radio-label {
+            padding: 10px;
+            font: calibri;
+            font-size: 1em;
+            font-weight: bold;
+        }
+        .search-section input[type="text"], 
+        .search-section select {
+            width: 175px;
+            box-sizing: border-box; 
+            padding: 10px; 
+            font: calibri;
+            font-size: 1em;
+            font-weight: bold;
+        }
+        .search-section .radio-label {
+            display: inline-flex;
+            align-items: center;
+            font-size: 1.1em;
+        }
+        .radio-label {
+            display: inline-flex;
+            align-items: center;
+            margin-right: 20px;
+        }
+        .popular-events {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 30px auto;
+            max-width: 1200px;
+        }
+        .event-card {
+            position: relative;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            margin: 15px;
+            overflow: hidden;
+            width: 200px;
+            height: 225px;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+        }
+        .event-card:hover {
+            transform: scale(1.05);
+        }
+        .date-box {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: rgba(0, 0, 0, 0.5); 
+            color: #fff;
+            padding: 5px 10px;
+            font-size: 0.8em;
+            border-radius: 3px;
+            z-index: 1; 
+        }
+        .event-card img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .event-name {
+            font-size: 1.1em;
+            font-weight: bold;
+            padding: 10px 15px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            text-align: left;
+        }
+        .event-details {
+            font-size: 0.9em;
+            color: #666;
+            text-align: left;
+            padding: 0 15px 15px 15px;
+        }
+        
+        .toggle-container {
+            position: relative;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .toggle-label {
+            cursor: pointer;
+            padding: 15px 20px;
+            background-color: #ccc; 
+            border-radius: 20px;
+            transition: background-color 0.3s ease;
+            
+        }
+
+        .toggle-label:hover {
+            background-color: #bbb;
+        }
+
+        input[type="radio"] {
+            display: none;
+        }
+
+        input[type="radio"]:checked + .toggle-label {
+            background-color: #0074d9;
+            color: #fff;
+        }
+
+        .toggle-switch {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: transparent;
+            border-radius: 20px;
+            pointer-events: none;
+            transition: background-color 0.3s ease;
+        }
+        .flash-message {
+            color: red;
+            font-weight: bold;
+            margin: 20px;
+        }
+        .date-input-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>SoundScape</h1>
+    </div>
+
+    <!-- Flash Messages -->
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            <div class="flash-messages">
+                {% for category, message in messages %}
+                    <div class="flash-message">{{ message }}</div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    {% endwith %}
+
+    <!-- Search Section -->
+    <div class="search-section">
+        <form action="{{ url_for('search') }}" method="POST">
+            <input type="text" name="location" placeholder="City">
+            <select name="radius">
+                <option value="10">10 miles</option>
+                <option value="20">20 miles</option>
+                <option value="50" selected>50 miles</option>
+                <option value="100">100 miles</option>
+            </select>
+
+            <!-- Date Range Picker -->
+            <input type="text" name="date_range" id="date-range" placeholder="All Dates">
+            
+            <div class="toggle-container">
+                <div class="radio-buttons">
+                    <input type="radio" name="search_type" value="manual" id="manual" checked onclick="toggleTimeRangeDropdown()">
+                    <label for="manual" class="toggle-label">Manual</label>
+                    <input type="radio" name="search_type" value="spotify" id="spotify" onclick="toggleTimeRangeDropdown()">
+                    <label for="spotify" class="toggle-label">Spotify</label>
+                </div>
+
+                <!-- Genre Input / Time Range Dropdown -->
+                <div id="manual-genre-input-container">
+                    <input type="text" name="genre" placeholder="Enter Genre" id="manual-genre-input">
+                </div>
+                <div id="time-range-dropdown-container" style="display: none;">
+                    <select name="time_range" id="time-range-dropdown">
+                        <option value="1_year">1 year</option>
+                        <option value="6_months">6 months</option>
+                        <option value="4_weeks">4 weeks</option>
+                    </select>
+                </div>
+            </div>
+            
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+    <h2>Popular Events</h2>
+
+    <div class="popular-event-cards">
+    </div>
+
+    <!-- Popular Events Section -->
+    <div class="popular-events">
+        {% for event in events %}
+        <div class="event-card" onclick="loadEventDetails('{{ event['id'] }}')">
+            <div class="date-box">{{ event.date }}</div>
+            <img src="{{ event.image }}" alt="{{ event.name }}">
+            <div class="event-name">{{ event.name }}</div>
+            <div class="event-details">{{ event.city }}, {{ event.state }}</div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+    <script>
+        // Get all radio buttons
+        const searchTypeRadios = document.querySelectorAll('input[name="search_type"]');
+        const manualGenreInput = document.getElementById('manual-genre-input');
+
+        // Function to load event details
+        function loadEventDetails(eventId) {
+            window.location.href = `/event/${eventId}`;
+        }
+
+        // Function to toggle visibility of the genre input based on search type
+        function toggleGenreInput() {
+            const isManual = document.querySelector('input[name="search_type"]:checked').value === 'manual';
+            document.getElementById('manual-genre-input').style.display = isManual ? 'block' : 'none';
+        }
+
+        // Function to toggle visibility of the time range dropdown based on search type
+        function toggleTimeRangeDropdown() {
+            var spotifyRadio = document.querySelector('input[name="search_type"][value="spotify"]');
+            var timeRangeDropdownContainer = document.getElementById('time-range-dropdown-container');
+            var manualGenreInputContainer = document.getElementById('manual-genre-input-container');
+            
+            if (spotifyRadio.checked) {
+                timeRangeDropdownContainer.style.display = 'block';
+                manualGenreInputContainer.style.display = 'none';
+            } else {
+                timeRangeDropdownContainer.style.display = 'none';
+                manualGenreInputContainer.style.display = 'block';
+            }
+        }
+        
+        // Listen for changes in the radio buttons
+        searchTypeRadios.forEach(radio => {
+            radio.addEventListener('change', toggleGenreInput);
+        });
+
+        // Run the function on page load to set the correct initial state
+        document.addEventListener('DOMContentLoaded', function() {
+            toggleTimeRangeDropdown();
+        });
+
+        // Initialize visibility based on the current radio button
+        toggleGenreInput();
+
+        // Initialize the date range picker
+        $(function() {
+            $('#date-range').daterangepicker({
+                opens: 'left',
+                autoUpdateInput: false,
+                locale: {
+                    cancelLabel: 'Clear',
+                    format: 'YYYY-MM-DD'
+                }
+            });
+    
+            $('#date-range').on('apply.daterangepicker', function(ev, picker) {
+                $(this).val(picker.startDate.format('YYYY-MM-DD') + ' to ' + picker.endDate.format('YYYY-MM-DD'));
+            });
+    
+            $('#date-range').on('cancel.daterangepicker', function(ev, picker) {
+                $(this).val('');
+            });
+        });
+    </script>
+</body>
+</html>
