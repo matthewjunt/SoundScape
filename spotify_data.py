@@ -7,8 +7,8 @@ import numpy as np
 from collections import Counter
 
 # Spotify API credentials 
-CLIENT_ID = 'f5f05bb707634304ba73ffe617c9db74'
-CLIENT_SECRET = 'e079e909e4394145bf75ab21317e2911'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 REDIRECT_URI = 'http://localhost:8888/callback'
 SCOPE = 'user-top-read'
 
